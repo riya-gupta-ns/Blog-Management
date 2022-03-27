@@ -1,0 +1,21 @@
+﻿@model List<NS.BLOGMGMT.Data.Entities.StaticContent>
+
+@{
+    ViewData["Title"] = "Clean Blog";
+    Layout = "~/Views/Shared/_Admin.cshtml";
+}  
+
+<main class="mb-4">
+  <div class="col-md-10 col-lg-8 col-xl-7">
+    <form asp-action="StaticContent" method="post">
+      @foreach( var item in Model)
+      {
+        <label for="@item.Category">@item.Category</label><br>
+        <input type="text" id="@item.Content" name="@item.Content" value="@item.Content"><br>
+        <br />
+      }
+      <div class="mb-3">
+      <input type="submit" value="Update" class="btn btn-primary" />
+    </form>
+  </div>
+</main>

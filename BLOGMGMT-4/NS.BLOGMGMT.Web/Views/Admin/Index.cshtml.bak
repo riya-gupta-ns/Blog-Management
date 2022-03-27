@@ -1,0 +1,64 @@
+@model List<NS.BLOGMGMT.Data.CustomEntities.BlogAndUser>
+
+@{    
+  ViewData["Title"] = "Index";    
+  Layout = "~/Views/Shared/_Layout.cshtml";    
+}    
+
+<!-- Page Header-->
+<header class="masthead" style="background-image: url('/images/home-bg.jpg')">
+  <div class="container position-relative px-4 px-lg-5">
+      <div class="row gx-4 gx-lg-5 justify-content-center">
+          <div class="col-md-10 col-lg-8 col-xl-7">
+              <div class="site-heading">
+                  <h1>Clean Blog</h1>
+                  <span class="subheading">Share Your thoughts here !!</span>
+              </div>
+          </div>
+      </div>
+  </div>
+</header>
+
+<div class="container">
+  <div class="row">
+    <div class="col-sm-6">
+      <div class="card">
+        <div class="card-body">
+          <h5 class="card-title">Users </h5>
+          <p class="card-text">In Last 24 hours</p>
+          <a asp-action="AllUsers" class="btn btn-primary">View All Users</a>
+        </div>
+      </div>
+    </div>
+    <div class="col-sm-6">
+      <div class="card">
+        <div class="card-body">
+          <h5 class="card-title d-inline">Total Blogs</h5> <span>( @Model.Count() ) </span>
+          <p class="card-text">Check Pending Blogs</p>
+          <a href="#" class="btn btn-primary">View All Blogs</a>
+        </div>
+      </div>
+    </div>
+
+    <div class="col-sm-6">
+      <div class="card">
+        <div class="card-body">
+          <h5 class="card-title">Add New Blog Type</h5>
+          @using (Html.BeginForm("AddBlogType", "Admin", FormMethod.Post, new { enctype = "multipart/form-data", @class="form w-50 "})) {
+            <div class="form-floating">
+                <input class="form-control" id="blogType" for="BlogType" name="TypeName" type="text" placeholder="Enter New Blog type..." data-sb-validations="required" size="30" maxlength="245"/>
+                <label for="BlogType">Type</label>
+                <div class="invalid-feedback" data-sb-feedback="name:required">Type is required.</div>
+            </div>
+
+            <input type="submit" value="Submit" class="btn btn-primary text-uppercase mt-3" id="submitButton" onclick="validcap()"/>  
+          }
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div>
+    <partial name="_AllBlogs" />
+  </div>
+</div>

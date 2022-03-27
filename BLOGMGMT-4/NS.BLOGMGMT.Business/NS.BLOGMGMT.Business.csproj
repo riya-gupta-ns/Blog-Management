@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\NS.BLOGMGMT.Data\NS.BLOGMGMT.Data.csproj" />
+    <ProjectReference Include="..\NS.BLOGMGMT.Model\NS.BLOGMGMT.Model.csproj" />
+    <ProjectReference Include="..\NS.BLOGMGMT.Repository\NS.BLOGMGMT.Repository.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>

@@ -1,0 +1,104 @@
+using Microsoft.EntityFrameworkCore;
+using NS.BLOGMGMT.Data.CustomEntities;
+
+
+namespace NS.BLOGMGMT.Data.Entities
+{
+    public partial class BlogDBContext : DbContext
+    {
+        public BlogDBContext()
+        {
+        }
+
+        public BlogDBContext(DbContextOptions<BlogDBContext> options)
+            : base(options)
+        {
+        }
+
+        public virtual DbSet<Blog> Blogs { get; set; } = null!;
+        public virtual DbSet<Comment> Comments { get; set; } = null!;
+        public virtual DbSet<User> Users { get; set; } = null!;
+        public virtual DbSet<BlogAndUser> BlogAndUsers { get; set; } = null!;
+
+
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        {
+          optionsBuilder.UseSqlServer("Server=192.168.2.30;Database=B22-BLOGMGMT;User Id=BLOGMGMT;Password=BLOGMGMT123");
+        }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<Blog>(entity =>
+            {
+                entity.Property(e => e.BlogTitle).HasMaxLength(100);
+
+                entity.Property(e => e.CreatedOn).HasColumnType("datetime");
+
+                entity.Property(e => e.DeletedOn).HasColumnType("datetime");
+
+                entity.Property(e => e.IsDeleted).HasDefaultValueSql("('0')");
+
+                entity.Property(e => e.LastModifiedOn).HasColumnType("datetime");
+
+                entity.HasOne(d => d.User)
+                    .WithMany(p => p.Blogs)
+                    .HasForeignKey(d => d.UserId)
+                    .HasConstraintName("FK__Blogs__UserId__5165187F");
+            });
+
+            modelBuilder.Entity<Comment>(entity =>
+            {
+                entity.Property(e => e.CommentContent).HasMaxLength(500);
+
+                entity.Property(e => e.CreatedOn).HasColumnType("datetime");
+
+                entity.Property(e => e.DeletedOn).HasColumnType("datetime");
+
+                entity.Property(e => e.IsDeleted).HasDefaultValueSql("('0')");
+
+                entity.Property(e => e.LastModifiedOn).HasColumnType("datetime");
+
+                entity.Property(e => e.Name).HasMaxLength(50);
+
+                entity.HasOne(d => d.Blog)
+                    .WithMany(p => p.Comments)
+                    .HasForeignKey(d => d.BlogId)
+                    .HasConstraintName("FK__Comments__BlogId__5535A963");
+            });
+
+            modelBuilder.Entity<User>(entity =>
+            {
+                entity.Property(e => e.CreatedOn).HasColumnType("datetime");
+
+                entity.Property(e => e.Email).HasMaxLength(255);
+
+                entity.Property(e => e.IsDeleted).HasDefaultValueSql("('0')");
+
+                entity.Property(e => e.LastModifiedOn).HasColumnType("datetime");
+
+                entity.Property(e => e.Password)
+                    .HasMaxLength(164)
+                    .IsUnicode(false)
+                    .IsFixedLength();
+
+                entity.Property(e => e.PhoneNumber)
+                    .HasMaxLength(15)
+                    .IsUnicode(false);
+
+                entity.Property(e => e.Role).HasDefaultValueSql("('1')");
+
+                entity.Property(e => e.UserFullName).HasMaxLength(50);
+
+                entity.Property(e => e.UserName).HasMaxLength(50);
+            });
+
+            modelBuilder.Entity<BlogAndUser>(entity => {
+                entity.HasNoKey();
+            });
+
+            OnModelCreatingPartial(modelBuilder);
+        }
+
+        partial void OnModelCreatingPartial(ModelBuilder modelBuilder);
+    }
+}

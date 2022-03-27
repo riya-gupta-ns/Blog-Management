@@ -1,0 +1,148 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = NS.BLOGMGMT.Web
+build_property.RootNamespace = NS.BLOGMGMT.Web
+build_property.ProjectDir = /home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web
+build_property._RazorSourceGeneratorDebug = 
+
+[/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/Views/Account/SignUp.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudC9TaWduVXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/Views/Admin/AllBlogs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW4vQWxsQmxvZ3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/Views/Admin/AllUsers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW4vQWxsVXNlcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/Views/Admin/ContactUs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW4vQ29udGFjdFVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/Views/Admin/EditBlog.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW4vRWRpdEJsb2cuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/Views/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW4vSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/Views/Admin/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW4vTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/Views/Admin/StaticContent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW4vU3RhdGljQ29udGVudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/Views/Admin/ViewBlogType.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW4vVmlld0Jsb2dUeXBlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/Views/Admin/ViewUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW4vVmlld1VzZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/Views/Admin/_PendingBlogs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW4vX1BlbmRpbmdCbG9ncy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/Views/Blog/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQmxvZy9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/Views/Blog/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQmxvZy9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/Views/Blog/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQmxvZy9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/Views/Blog/ShowBlog.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQmxvZy9TaG93QmxvZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/Views/Blog/ViewBlog.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQmxvZy9WaWV3QmxvZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/Views/Blog/_Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQmxvZy9fTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/Views/Blog/_ShowComments.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQmxvZy9fU2hvd0NvbW1lbnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/Views/Home/AboutUs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9BYm91dFVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/Views/Shared/_Admin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19BZG1pbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/Views/Shared/_Comments.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19Db21tZW50cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/Views/User/Blogs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlci9CbG9ncy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/Views/User/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlci9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/Views/User/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlci9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/Views/User/Profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlci9Qcm9maWxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/Views/User/_Blogs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlci9fQmxvZ3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-4521z1tldh

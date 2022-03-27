@@ -1,0 +1,118 @@
+@using System.Text.RegularExpressions 
+@model NS.BLOGMGMT.Model.BlogAndLoginModel
+
+@section Scripts {
+   @{ await Html.RenderPartialAsync("_ValidationScriptsPartial"); }
+}
+
+@{
+    ViewData["Title"] = " Clean Blog";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!-- Page Header-->
+<header class="masthead" style="background-image: url('/images/home-bg.jpg')">
+  <div class="container position-relative px-4 px-lg-5">
+      <div class="row gx-4 gx-lg-5 justify-content-center">
+          <div class="col-md-10 col-lg-8 col-xl-7">
+              <div class="site-heading">
+                  <h1>Clean Blog</h1>
+                  <span class="subheading">Share Your thoughts here !!</span>
+              </div>
+          </div>
+      </div>
+  </div>
+</header>
+
+
+    @if ( User.Identity.IsAuthenticated && User.IsInRole("1"))
+    {
+      <div class="row gx-4 gx-lg-5 m-auto" id="loginForm">
+        <div class="dropdown mb-3 ">
+          <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
+            Profile
+          </button>
+          <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
+            <li><a asp-controller="User" asp-action="Profile" class="dropdown-item">Profile</a></li>
+            <li><a asp-controller="User" asp-action="Blogs" class="dropdown-item">Your Blogs</a></li>
+            <li><a asp-controller="Account" asp-action="Logout" class="dropdown-item">Logout</a></li>
+          </ul>
+        </div>
+      </div>
+    } else {
+      <div class="row gx-4 gx-lg-5 m-auto" id="loginForm">
+        @Html.Partial("_Login", Model.Login)
+      </div>
+    }
+ 
+ <div class="row gx-4 gx-lg-5 m-auto">
+    @using (Html.BeginForm("Index","Blog", FormMethod.Get, new{ @class="form w-25" } ))
+    {
+      @Html.TextBox("searchData")
+      <input type="submit" class="btn btn-secondary mt-2" value="Search Blog"/>
+      <br>
+    }
+  </div>
+
+<div class="container px-4 px-lg-5">
+  <div class="row gx-4 gx-lg-5 justify-content-center">
+    <div class="col-md-10 col-lg-8 col-xl-7">
+        <!-- Post preview-->
+        @foreach( var item in Model.blogAndUsers )
+        {
+          <div class="post-preview">
+             <a asp-action="ViewBlog" asp-route-id="@item.BlogId">
+                <h2 class="post-title">@item.BlogTitle</h2>
+              </a>
+              @foreach ( var type in ViewBag.BlogTypes )
+              {
+                @if ( @type.TypeId == @item.BlogTypeId )
+                { <p class="post-meta">@type.TypeName </p> }
+              }
+              <p class="post-meta">
+                  Posted By <b>@item.UserFullName</b>
+                  On @item.CreatedOn
+              </p>
+          </div>
+          <!-- Divider-->
+          <hr class="my-4" />
+        }
+        <!--<div class="d-flex justify-content-end mb-4"><a class="btn btn-primary text-uppercase" href="#!">Older Posts →</a></div>-->
+    </div>
+     
+  </div>
+</div>
+
+<div class="row gx-4 gx-lg-5 ms-5">
+  <!-- pager -->
+    @if (ViewBag.lk.Pager.EndPage > 1)
+    {
+        <ul class="pagination">
+            @if (ViewBag.lk.Pager.CurrentPage > 1)
+            {
+                <li class="border border-2 border-primary p-2">
+                    <a href="~/Blog/Index?page=1&searchData=@ViewBag.s">First</a>
+                </li>
+
+                <li class="border border-2 border-primary p-2">
+                    <a href="~/Blog/Index?page=@(ViewBag.lk.Pager.CurrentPage - 1)&searchData=@ViewBag.s">Previous</a>
+                </li>
+            }
+            @for (var page1 = ViewBag.lk.Pager.StartPage; page1 <= ViewBag.lk.Pager.EndPage; page1++)
+            {
+                <li class="border border-2 border-primary p-2">
+                      <a href="~/Blog/Index?page=@page1&searchData=@ViewBag.s"> @page1 </a>
+                </li>
+            }
+            @if (ViewBag.lk.Pager.CurrentPage < ViewBag.lk.Pager.TotalPages)
+            {
+                <li class="border border-2 border-primary p-2">
+                    <a href="~/Blog/Index?page=@(ViewBag.lk.Pager.CurrentPage + 1)&searchData=@ViewBag.s">Next</a>
+                </li>
+                <li class="border border-2 border-primary p-2">
+                    <a href="~/Blog/Index?page=@(ViewBag.lk.Pager.TotalPages)&searchData=@ViewBag.s">Last</a>
+                </li>
+            }
+        </ul>
+    }
+</div>

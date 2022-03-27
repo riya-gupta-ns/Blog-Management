@@ -1,0 +1,41 @@
+@model List<NS.BLOGMGMT.Data.CustomEntities.BlogAndUser>
+
+@{
+  ViewData["Title"] = "All Blogs";
+  Layout = "~/Views/Shared/_Admin.cshtml";
+}
+
+
+  <h3> All Blogs </h3>
+  <table class="table">
+    <thead>
+      <tr>
+        <th scope="col">#</th>
+        <th scope="col">Blog Title</th>
+        <th scope="col">Author</th>
+        <th scope="col">Status</th>
+      </tr>
+    </thead>
+    <tbody>
+      @foreach( var item in Model)
+      {
+        <tr>
+          <th scope="row">#</th>
+          <td>@item.BlogTitle</td>
+          <td>@item.UserFullName</td>
+          @if ( @item.IsPublish == 1 )
+          { <td>Published</td> } else if ( @item.IsPublish == 2 ) {
+            <td>Rejected</td>
+          } else {
+            <td>Pending</td>
+          }
+          <td>
+            <a asp-action="EditBlog" asp-route-id="@item.BlogId" class="btn btn-outline-primary">Edit</a>
+            <a asp-controller="Blog" asp-action="ShowBlog" asp-route-id="@item.BlogId" class="btn btn-outline-secondary">View</a>
+            <a asp-action="Delete" asp-route-id="@item.BlogId" class="btn btn-outline-info">Delete</a>
+          </td>
+        </tr>
+      }
+    </tbody>
+  </table>
+  <a asp-action="Index" class="btn btn-outline-info">Back to Index</a>

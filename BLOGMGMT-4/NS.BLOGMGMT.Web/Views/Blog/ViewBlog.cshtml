@@ -1,0 +1,66 @@
+@model NS.BLOGMGMT.Data.Entities.Blog
+@{
+    ViewData["Title"] = "Clean Blog";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<header class="masthead" style="background-image: url('/images/images.jpeg')">
+  <div class="container position-relative px-4 px-lg-5">
+    <div class="row gx-4 gx-lg-5 justify-content-center">
+      <div class="col-md-10 col-lg-8 col-xl-7">
+        <div class="post-heading">
+          <h1>@Model.BlogTitle</h1>
+          <span class="meta">
+            Posted On @Model.LastModifiedOn 
+          </span>
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
+
+<article class="mb-4">
+  <div class="container px-4 px-lg-5">
+    <div class="row gx-4 gx-lg-5 justify-content-center">
+        <div class="col-md-10 col-lg-8 col-xl-7">
+        <p>@Model.BlogContent</p>
+        </div>
+    </div>
+  </div>
+</article>
+
+  <div class="Comments container px-45 px-lg-5" id="partialContainer">
+    @Html.Partial("_Comments", Model.Comments)
+  </div>
+
+<hr>
+<setion class="mb-4">
+  <div class="container px-4 px-lg-5">
+    <div class="row gx-4 gx-lg-5">
+      <div class="col-md-10 col-lg-8 col-xl-7">
+        <div class="my-5">
+          <form id="contactForm" data-sb-form-api-token="API_TOKEN" method="post" asp-action="ViewBlog">
+
+            @Html.HiddenFor(model => model.BlogId)
+            <h3>Leave a Reply</h3>
+            <div class="form-floating">
+                <input class="form-control" id="name" for="name" name="Name" type="text" placeholder="Enter your name..." data-sb-validations="required" size="30" maxlength="245"/>
+                <label for="name">Name</label>
+                <span asp-validation-for="BlogTitle" class="text-danger"></span>    
+
+            </div>
+
+            <div class="form-floating">
+                <input class="form-control" id="" type="text" name="CommentContent" placeholder="Message" data-sb-validations="required" />
+                <label for="comment">Comment</label> 
+                <span asp-validation-for="BlogContent" class="text-danger"></span>    
+            </div>
+
+            <!-- Submit Button-->
+            <input type="submit" value="Post Comment" class="btn btn-primary text-uppercase mt-3" id="submitButton" onclick="validcap()"/>  
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

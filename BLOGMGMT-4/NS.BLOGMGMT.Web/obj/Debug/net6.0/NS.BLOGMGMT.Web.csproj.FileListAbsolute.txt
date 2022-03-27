@@ -1,0 +1,499 @@
+/home/abhishek/netsol/code/BLOGMGMT/NS.BLOGMGMT.Web/bin/Debug/net6.0/appsettings.Development.json
+/home/abhishek/netsol/code/BLOGMGMT/NS.BLOGMGMT.Web/bin/Debug/net6.0/appsettings.json
+/home/abhishek/netsol/code/BLOGMGMT/NS.BLOGMGMT.Web/bin/Debug/net6.0/NS.BLOGMGMT.Web.staticwebassets.runtime.json
+/home/abhishek/netsol/code/BLOGMGMT/NS.BLOGMGMT.Web/bin/Debug/net6.0/NS.BLOGMGMT.Web
+/home/abhishek/netsol/code/BLOGMGMT/NS.BLOGMGMT.Web/bin/Debug/net6.0/NS.BLOGMGMT.Web.deps.json
+/home/abhishek/netsol/code/BLOGMGMT/NS.BLOGMGMT.Web/bin/Debug/net6.0/NS.BLOGMGMT.Web.runtimeconfig.json
+/home/abhishek/netsol/code/BLOGMGMT/NS.BLOGMGMT.Web/bin/Debug/net6.0/NS.BLOGMGMT.Web.dll
+/home/abhishek/netsol/code/BLOGMGMT/NS.BLOGMGMT.Web/bin/Debug/net6.0/ref/NS.BLOGMGMT.Web.dll
+/home/abhishek/netsol/code/BLOGMGMT/NS.BLOGMGMT.Web/bin/Debug/net6.0/NS.BLOGMGMT.Web.pdb
+/home/abhishek/netsol/code/BLOGMGMT/NS.BLOGMGMT.Web/bin/Debug/net6.0/Humanizer.dll
+/home/abhishek/netsol/code/BLOGMGMT/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/home/abhishek/netsol/code/BLOGMGMT/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/home/abhishek/netsol/code/BLOGMGMT/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/abhishek/netsol/code/BLOGMGMT/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/abhishek/netsol/code/BLOGMGMT/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/abhishek/netsol/code/BLOGMGMT/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/abhishek/netsol/code/BLOGMGMT/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/home/abhishek/netsol/code/BLOGMGMT/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/home/abhishek/netsol/code/BLOGMGMT/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/abhishek/netsol/code/BLOGMGMT/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/home/abhishek/netsol/code/BLOGMGMT/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/home/abhishek/netsol/code/BLOGMGMT/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/abhishek/netsol/code/BLOGMGMT/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/home/abhishek/netsol/code/BLOGMGMT/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/home/abhishek/netsol/code/BLOGMGMT/NS.BLOGMGMT.Web/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/home/abhishek/netsol/code/BLOGMGMT/NS.BLOGMGMT.Web/bin/Debug/net6.0/System.Drawing.Common.dll
+/home/abhishek/netsol/code/BLOGMGMT/NS.BLOGMGMT.Web/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/home/abhishek/netsol/code/BLOGMGMT/NS.BLOGMGMT.Web/bin/Debug/net6.0/System.Runtime.Caching.dll
+/home/abhishek/netsol/code/BLOGMGMT/NS.BLOGMGMT.Web/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/home/abhishek/netsol/code/BLOGMGMT/NS.BLOGMGMT.Web/bin/Debug/net6.0/System.Security.Permissions.dll
+/home/abhishek/netsol/code/BLOGMGMT/NS.BLOGMGMT.Web/bin/Debug/net6.0/System.Windows.Extensions.dll
+/home/abhishek/netsol/code/BLOGMGMT/NS.BLOGMGMT.Web/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/abhishek/netsol/code/BLOGMGMT/NS.BLOGMGMT.Web/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/abhishek/netsol/code/BLOGMGMT/NS.BLOGMGMT.Web/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/home/abhishek/netsol/code/BLOGMGMT/NS.BLOGMGMT.Web/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/abhishek/netsol/code/BLOGMGMT/NS.BLOGMGMT.Web/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/abhishek/netsol/code/BLOGMGMT/NS.BLOGMGMT.Web/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/home/abhishek/netsol/code/BLOGMGMT/NS.BLOGMGMT.Web/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/home/abhishek/netsol/code/BLOGMGMT/NS.BLOGMGMT.Web/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/home/abhishek/netsol/code/BLOGMGMT/NS.BLOGMGMT.Web/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/home/abhishek/netsol/code/BLOGMGMT/NS.BLOGMGMT.Web/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/home/abhishek/netsol/code/BLOGMGMT/NS.BLOGMGMT.Web/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/home/abhishek/netsol/code/BLOGMGMT/NS.BLOGMGMT.Web/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/home/abhishek/netsol/code/BLOGMGMT/NS.BLOGMGMT.Web/bin/Debug/net6.0/NS.BLOGMGMT.Business.dll
+/home/abhishek/netsol/code/BLOGMGMT/NS.BLOGMGMT.Web/bin/Debug/net6.0/NS.BLOGMGMT.Data.dll
+/home/abhishek/netsol/code/BLOGMGMT/NS.BLOGMGMT.Web/bin/Debug/net6.0/NS.BLOGMGMT.Model.dll
+/home/abhishek/netsol/code/BLOGMGMT/NS.BLOGMGMT.Web/bin/Debug/net6.0/NS.BLOGMGMT.Repository.dll
+/home/abhishek/netsol/code/BLOGMGMT/NS.BLOGMGMT.Web/bin/Debug/net6.0/NS.BLOGMGMT.Data.pdb
+/home/abhishek/netsol/code/BLOGMGMT/NS.BLOGMGMT.Web/bin/Debug/net6.0/NS.BLOGMGMT.Business.pdb
+/home/abhishek/netsol/code/BLOGMGMT/NS.BLOGMGMT.Web/bin/Debug/net6.0/NS.BLOGMGMT.Repository.pdb
+/home/abhishek/netsol/code/BLOGMGMT/NS.BLOGMGMT.Web/bin/Debug/net6.0/NS.BLOGMGMT.Model.pdb
+/home/abhishek/netsol/code/BLOGMGMT/NS.BLOGMGMT.Web/obj/Debug/net6.0/NS.BLOGMGMT.Web.csproj.AssemblyReference.cache
+/home/abhishek/netsol/code/BLOGMGMT/NS.BLOGMGMT.Web/obj/Debug/net6.0/NS.BLOGMGMT.Web.GeneratedMSBuildEditorConfig.editorconfig
+/home/abhishek/netsol/code/BLOGMGMT/NS.BLOGMGMT.Web/obj/Debug/net6.0/NS.BLOGMGMT.Web.AssemblyInfoInputs.cache
+/home/abhishek/netsol/code/BLOGMGMT/NS.BLOGMGMT.Web/obj/Debug/net6.0/NS.BLOGMGMT.Web.AssemblyInfo.cs
+/home/abhishek/netsol/code/BLOGMGMT/NS.BLOGMGMT.Web/obj/Debug/net6.0/NS.BLOGMGMT.Web.csproj.CoreCompileInputs.cache
+/home/abhishek/netsol/code/BLOGMGMT/NS.BLOGMGMT.Web/obj/Debug/net6.0/NS.BLOGMGMT.Web.MvcApplicationPartsAssemblyInfo.cache
+/home/abhishek/netsol/code/BLOGMGMT/NS.BLOGMGMT.Web/obj/Debug/net6.0/NS.BLOGMGMT.Web.RazorAssemblyInfo.cache
+/home/abhishek/netsol/code/BLOGMGMT/NS.BLOGMGMT.Web/obj/Debug/net6.0/NS.BLOGMGMT.Web.RazorAssemblyInfo.cs
+/home/abhishek/netsol/code/BLOGMGMT/NS.BLOGMGMT.Web/obj/Debug/net6.0/staticwebassets.build.json
+/home/abhishek/netsol/code/BLOGMGMT/NS.BLOGMGMT.Web/obj/Debug/net6.0/staticwebassets.development.json
+/home/abhishek/netsol/code/BLOGMGMT/NS.BLOGMGMT.Web/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/home/abhishek/netsol/code/BLOGMGMT/NS.BLOGMGMT.Web/obj/Debug/net6.0/scopedcss/bundle/NS.BLOGMGMT.Web.styles.css
+/home/abhishek/netsol/code/BLOGMGMT/NS.BLOGMGMT.Web/obj/Debug/net6.0/scopedcss/projectbundle/NS.BLOGMGMT.Web.bundle.scp.css
+/home/abhishek/netsol/code/BLOGMGMT/NS.BLOGMGMT.Web/obj/Debug/net6.0/NS.BLOGMGMT.Web.csproj.CopyComplete
+/home/abhishek/netsol/code/BLOGMGMT/NS.BLOGMGMT.Web/obj/Debug/net6.0/NS.BLOGMGMT.Web.dll
+/home/abhishek/netsol/code/BLOGMGMT/NS.BLOGMGMT.Web/obj/Debug/net6.0/ref/NS.BLOGMGMT.Web.dll
+/home/abhishek/netsol/code/BLOGMGMT/NS.BLOGMGMT.Web/obj/Debug/net6.0/NS.BLOGMGMT.Web.pdb
+/home/abhishek/netsol/code/BLOGMGMT/NS.BLOGMGMT.Web/obj/Debug/net6.0/NS.BLOGMGMT.Web.genruntimeconfig.cache
+/home/abhishek/netsol/code/BLOGMGMT/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.AspNet.Identity.Core.dll
+D:/Company project 2/ProjectFile13.3/BLOGMGMT (1)/BLOGMGMT/NS.BLOGMGMT.Web/bin/Debug/net6.0/appsettings.Development.json
+D:/Company project 2/ProjectFile13.3/BLOGMGMT (1)/BLOGMGMT/NS.BLOGMGMT.Web/bin/Debug/net6.0/appsettings.json
+D:/Company project 2/ProjectFile13.3/BLOGMGMT (1)/BLOGMGMT/NS.BLOGMGMT.Web/bin/Debug/net6.0/NS.BLOGMGMT.Web.staticwebassets.runtime.json
+D:/Company project 2/ProjectFile13.3/BLOGMGMT (1)/BLOGMGMT/NS.BLOGMGMT.Web/bin/Debug/net6.0/NS.BLOGMGMT.Web.exe
+D:/Company project 2/ProjectFile13.3/BLOGMGMT (1)/BLOGMGMT/NS.BLOGMGMT.Web/bin/Debug/net6.0/NS.BLOGMGMT.Web.deps.json
+D:/Company project 2/ProjectFile13.3/BLOGMGMT (1)/BLOGMGMT/NS.BLOGMGMT.Web/bin/Debug/net6.0/NS.BLOGMGMT.Web.runtimeconfig.json
+D:/Company project 2/ProjectFile13.3/BLOGMGMT (1)/BLOGMGMT/NS.BLOGMGMT.Web/bin/Debug/net6.0/NS.BLOGMGMT.Web.dll
+D:/Company project 2/ProjectFile13.3/BLOGMGMT (1)/BLOGMGMT/NS.BLOGMGMT.Web/bin/Debug/net6.0/ref/NS.BLOGMGMT.Web.dll
+D:/Company project 2/ProjectFile13.3/BLOGMGMT (1)/BLOGMGMT/NS.BLOGMGMT.Web/bin/Debug/net6.0/NS.BLOGMGMT.Web.pdb
+D:/Company project 2/ProjectFile13.3/BLOGMGMT (1)/BLOGMGMT/NS.BLOGMGMT.Web/bin/Debug/net6.0/Humanizer.dll
+D:/Company project 2/ProjectFile13.3/BLOGMGMT (1)/BLOGMGMT/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.AspNet.Identity.Core.dll
+D:/Company project 2/ProjectFile13.3/BLOGMGMT (1)/BLOGMGMT/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+D:/Company project 2/ProjectFile13.3/BLOGMGMT (1)/BLOGMGMT/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+D:/Company project 2/ProjectFile13.3/BLOGMGMT (1)/BLOGMGMT/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+D:/Company project 2/ProjectFile13.3/BLOGMGMT (1)/BLOGMGMT/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+D:/Company project 2/ProjectFile13.3/BLOGMGMT (1)/BLOGMGMT/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+D:/Company project 2/ProjectFile13.3/BLOGMGMT (1)/BLOGMGMT/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+D:/Company project 2/ProjectFile13.3/BLOGMGMT (1)/BLOGMGMT/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+D:/Company project 2/ProjectFile13.3/BLOGMGMT (1)/BLOGMGMT/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+D:/Company project 2/ProjectFile13.3/BLOGMGMT (1)/BLOGMGMT/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+D:/Company project 2/ProjectFile13.3/BLOGMGMT (1)/BLOGMGMT/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+D:/Company project 2/ProjectFile13.3/BLOGMGMT (1)/BLOGMGMT/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+D:/Company project 2/ProjectFile13.3/BLOGMGMT (1)/BLOGMGMT/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:/Company project 2/ProjectFile13.3/BLOGMGMT (1)/BLOGMGMT/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+D:/Company project 2/ProjectFile13.3/BLOGMGMT (1)/BLOGMGMT/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+D:/Company project 2/ProjectFile13.3/BLOGMGMT (1)/BLOGMGMT/NS.BLOGMGMT.Web/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+D:/Company project 2/ProjectFile13.3/BLOGMGMT (1)/BLOGMGMT/NS.BLOGMGMT.Web/bin/Debug/net6.0/System.Drawing.Common.dll
+D:/Company project 2/ProjectFile13.3/BLOGMGMT (1)/BLOGMGMT/NS.BLOGMGMT.Web/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+D:/Company project 2/ProjectFile13.3/BLOGMGMT (1)/BLOGMGMT/NS.BLOGMGMT.Web/bin/Debug/net6.0/System.Runtime.Caching.dll
+D:/Company project 2/ProjectFile13.3/BLOGMGMT (1)/BLOGMGMT/NS.BLOGMGMT.Web/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+D:/Company project 2/ProjectFile13.3/BLOGMGMT (1)/BLOGMGMT/NS.BLOGMGMT.Web/bin/Debug/net6.0/System.Security.Permissions.dll
+D:/Company project 2/ProjectFile13.3/BLOGMGMT (1)/BLOGMGMT/NS.BLOGMGMT.Web/bin/Debug/net6.0/System.Windows.Extensions.dll
+D:/Company project 2/ProjectFile13.3/BLOGMGMT (1)/BLOGMGMT/NS.BLOGMGMT.Web/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+D:/Company project 2/ProjectFile13.3/BLOGMGMT (1)/BLOGMGMT/NS.BLOGMGMT.Web/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+D:/Company project 2/ProjectFile13.3/BLOGMGMT (1)/BLOGMGMT/NS.BLOGMGMT.Web/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+D:/Company project 2/ProjectFile13.3/BLOGMGMT (1)/BLOGMGMT/NS.BLOGMGMT.Web/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/Company project 2/ProjectFile13.3/BLOGMGMT (1)/BLOGMGMT/NS.BLOGMGMT.Web/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/Company project 2/ProjectFile13.3/BLOGMGMT (1)/BLOGMGMT/NS.BLOGMGMT.Web/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+D:/Company project 2/ProjectFile13.3/BLOGMGMT (1)/BLOGMGMT/NS.BLOGMGMT.Web/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+D:/Company project 2/ProjectFile13.3/BLOGMGMT (1)/BLOGMGMT/NS.BLOGMGMT.Web/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+D:/Company project 2/ProjectFile13.3/BLOGMGMT (1)/BLOGMGMT/NS.BLOGMGMT.Web/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+D:/Company project 2/ProjectFile13.3/BLOGMGMT (1)/BLOGMGMT/NS.BLOGMGMT.Web/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+D:/Company project 2/ProjectFile13.3/BLOGMGMT (1)/BLOGMGMT/NS.BLOGMGMT.Web/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+D:/Company project 2/ProjectFile13.3/BLOGMGMT (1)/BLOGMGMT/NS.BLOGMGMT.Web/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+D:/Company project 2/ProjectFile13.3/BLOGMGMT (1)/BLOGMGMT/NS.BLOGMGMT.Web/bin/Debug/net6.0/NS.BLOGMGMT.Business.dll
+D:/Company project 2/ProjectFile13.3/BLOGMGMT (1)/BLOGMGMT/NS.BLOGMGMT.Web/bin/Debug/net6.0/NS.BLOGMGMT.Data.dll
+D:/Company project 2/ProjectFile13.3/BLOGMGMT (1)/BLOGMGMT/NS.BLOGMGMT.Web/bin/Debug/net6.0/NS.BLOGMGMT.Model.dll
+D:/Company project 2/ProjectFile13.3/BLOGMGMT (1)/BLOGMGMT/NS.BLOGMGMT.Web/bin/Debug/net6.0/NS.BLOGMGMT.Repository.dll
+D:/Company project 2/ProjectFile13.3/BLOGMGMT (1)/BLOGMGMT/NS.BLOGMGMT.Web/bin/Debug/net6.0/NS.BLOGMGMT.Data.pdb
+D:/Company project 2/ProjectFile13.3/BLOGMGMT (1)/BLOGMGMT/NS.BLOGMGMT.Web/bin/Debug/net6.0/NS.BLOGMGMT.Business.pdb
+D:/Company project 2/ProjectFile13.3/BLOGMGMT (1)/BLOGMGMT/NS.BLOGMGMT.Web/bin/Debug/net6.0/NS.BLOGMGMT.Repository.pdb
+D:/Company project 2/ProjectFile13.3/BLOGMGMT (1)/BLOGMGMT/NS.BLOGMGMT.Web/bin/Debug/net6.0/NS.BLOGMGMT.Model.pdb
+D:/Company project 2/ProjectFile13.3/BLOGMGMT (1)/BLOGMGMT/NS.BLOGMGMT.Web/obj/Debug/net6.0/NS.BLOGMGMT.Web.csproj.AssemblyReference.cache
+D:/Company project 2/ProjectFile13.3/BLOGMGMT (1)/BLOGMGMT/NS.BLOGMGMT.Web/obj/Debug/net6.0/NS.BLOGMGMT.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:/Company project 2/ProjectFile13.3/BLOGMGMT (1)/BLOGMGMT/NS.BLOGMGMT.Web/obj/Debug/net6.0/NS.BLOGMGMT.Web.AssemblyInfoInputs.cache
+D:/Company project 2/ProjectFile13.3/BLOGMGMT (1)/BLOGMGMT/NS.BLOGMGMT.Web/obj/Debug/net6.0/NS.BLOGMGMT.Web.AssemblyInfo.cs
+D:/Company project 2/ProjectFile13.3/BLOGMGMT (1)/BLOGMGMT/NS.BLOGMGMT.Web/obj/Debug/net6.0/NS.BLOGMGMT.Web.csproj.CoreCompileInputs.cache
+D:/Company project 2/ProjectFile13.3/BLOGMGMT (1)/BLOGMGMT/NS.BLOGMGMT.Web/obj/Debug/net6.0/NS.BLOGMGMT.Web.MvcApplicationPartsAssemblyInfo.cache
+D:/Company project 2/ProjectFile13.3/BLOGMGMT (1)/BLOGMGMT/NS.BLOGMGMT.Web/obj/Debug/net6.0/NS.BLOGMGMT.Web.RazorAssemblyInfo.cache
+D:/Company project 2/ProjectFile13.3/BLOGMGMT (1)/BLOGMGMT/NS.BLOGMGMT.Web/obj/Debug/net6.0/NS.BLOGMGMT.Web.RazorAssemblyInfo.cs
+D:/Company project 2/ProjectFile13.3/BLOGMGMT (1)/BLOGMGMT/NS.BLOGMGMT.Web/obj/Debug/net6.0/staticwebassets.build.json
+D:/Company project 2/ProjectFile13.3/BLOGMGMT (1)/BLOGMGMT/NS.BLOGMGMT.Web/obj/Debug/net6.0/staticwebassets.development.json
+D:/Company project 2/ProjectFile13.3/BLOGMGMT (1)/BLOGMGMT/NS.BLOGMGMT.Web/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+D:/Company project 2/ProjectFile13.3/BLOGMGMT (1)/BLOGMGMT/NS.BLOGMGMT.Web/obj/Debug/net6.0/scopedcss/bundle/NS.BLOGMGMT.Web.styles.css
+D:/Company project 2/ProjectFile13.3/BLOGMGMT (1)/BLOGMGMT/NS.BLOGMGMT.Web/obj/Debug/net6.0/scopedcss/projectbundle/NS.BLOGMGMT.Web.bundle.scp.css
+D:/Company project 2/ProjectFile13.3/BLOGMGMT (1)/BLOGMGMT/NS.BLOGMGMT.Web/obj/Debug/net6.0/NS.BLOGMGMT.Web.csproj.CopyComplete
+D:/Company project 2/ProjectFile13.3/BLOGMGMT (1)/BLOGMGMT/NS.BLOGMGMT.Web/obj/Debug/net6.0/NS.BLOGMGMT.Web.dll
+D:/Company project 2/ProjectFile13.3/BLOGMGMT (1)/BLOGMGMT/NS.BLOGMGMT.Web/obj/Debug/net6.0/ref/NS.BLOGMGMT.Web.dll
+D:/Company project 2/ProjectFile13.3/BLOGMGMT (1)/BLOGMGMT/NS.BLOGMGMT.Web/obj/Debug/net6.0/NS.BLOGMGMT.Web.pdb
+D:/Company project 2/ProjectFile13.3/BLOGMGMT (1)/BLOGMGMT/NS.BLOGMGMT.Web/obj/Debug/net6.0/NS.BLOGMGMT.Web.genruntimeconfig.cache
+/home/abhishek/netsol/code/BLOGMGMT-1/NS.BLOGMGMT.Web/bin/Debug/net6.0/appsettings.Development.json
+/home/abhishek/netsol/code/BLOGMGMT-1/NS.BLOGMGMT.Web/bin/Debug/net6.0/appsettings.json
+/home/abhishek/netsol/code/BLOGMGMT-1/NS.BLOGMGMT.Web/bin/Debug/net6.0/NS.BLOGMGMT.Web.staticwebassets.runtime.json
+/home/abhishek/netsol/code/BLOGMGMT-1/NS.BLOGMGMT.Web/bin/Debug/net6.0/NS.BLOGMGMT.Web
+/home/abhishek/netsol/code/BLOGMGMT-1/NS.BLOGMGMT.Web/bin/Debug/net6.0/NS.BLOGMGMT.Web.deps.json
+/home/abhishek/netsol/code/BLOGMGMT-1/NS.BLOGMGMT.Web/bin/Debug/net6.0/NS.BLOGMGMT.Web.runtimeconfig.json
+/home/abhishek/netsol/code/BLOGMGMT-1/NS.BLOGMGMT.Web/bin/Debug/net6.0/NS.BLOGMGMT.Web.dll
+/home/abhishek/netsol/code/BLOGMGMT-1/NS.BLOGMGMT.Web/bin/Debug/net6.0/ref/NS.BLOGMGMT.Web.dll
+/home/abhishek/netsol/code/BLOGMGMT-1/NS.BLOGMGMT.Web/bin/Debug/net6.0/NS.BLOGMGMT.Web.pdb
+/home/abhishek/netsol/code/BLOGMGMT-1/NS.BLOGMGMT.Web/bin/Debug/net6.0/Humanizer.dll
+/home/abhishek/netsol/code/BLOGMGMT-1/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.AspNet.Identity.Core.dll
+/home/abhishek/netsol/code/BLOGMGMT-1/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/home/abhishek/netsol/code/BLOGMGMT-1/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/home/abhishek/netsol/code/BLOGMGMT-1/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/abhishek/netsol/code/BLOGMGMT-1/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/abhishek/netsol/code/BLOGMGMT-1/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/abhishek/netsol/code/BLOGMGMT-1/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/abhishek/netsol/code/BLOGMGMT-1/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/home/abhishek/netsol/code/BLOGMGMT-1/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/home/abhishek/netsol/code/BLOGMGMT-1/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/abhishek/netsol/code/BLOGMGMT-1/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/home/abhishek/netsol/code/BLOGMGMT-1/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/home/abhishek/netsol/code/BLOGMGMT-1/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/abhishek/netsol/code/BLOGMGMT-1/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/home/abhishek/netsol/code/BLOGMGMT-1/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/home/abhishek/netsol/code/BLOGMGMT-1/NS.BLOGMGMT.Web/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/home/abhishek/netsol/code/BLOGMGMT-1/NS.BLOGMGMT.Web/bin/Debug/net6.0/System.Drawing.Common.dll
+/home/abhishek/netsol/code/BLOGMGMT-1/NS.BLOGMGMT.Web/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/home/abhishek/netsol/code/BLOGMGMT-1/NS.BLOGMGMT.Web/bin/Debug/net6.0/System.Runtime.Caching.dll
+/home/abhishek/netsol/code/BLOGMGMT-1/NS.BLOGMGMT.Web/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/home/abhishek/netsol/code/BLOGMGMT-1/NS.BLOGMGMT.Web/bin/Debug/net6.0/System.Security.Permissions.dll
+/home/abhishek/netsol/code/BLOGMGMT-1/NS.BLOGMGMT.Web/bin/Debug/net6.0/System.Windows.Extensions.dll
+/home/abhishek/netsol/code/BLOGMGMT-1/NS.BLOGMGMT.Web/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/abhishek/netsol/code/BLOGMGMT-1/NS.BLOGMGMT.Web/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/abhishek/netsol/code/BLOGMGMT-1/NS.BLOGMGMT.Web/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/home/abhishek/netsol/code/BLOGMGMT-1/NS.BLOGMGMT.Web/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/abhishek/netsol/code/BLOGMGMT-1/NS.BLOGMGMT.Web/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/abhishek/netsol/code/BLOGMGMT-1/NS.BLOGMGMT.Web/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/home/abhishek/netsol/code/BLOGMGMT-1/NS.BLOGMGMT.Web/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/home/abhishek/netsol/code/BLOGMGMT-1/NS.BLOGMGMT.Web/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/home/abhishek/netsol/code/BLOGMGMT-1/NS.BLOGMGMT.Web/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/home/abhishek/netsol/code/BLOGMGMT-1/NS.BLOGMGMT.Web/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/home/abhishek/netsol/code/BLOGMGMT-1/NS.BLOGMGMT.Web/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/home/abhishek/netsol/code/BLOGMGMT-1/NS.BLOGMGMT.Web/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/home/abhishek/netsol/code/BLOGMGMT-1/NS.BLOGMGMT.Web/bin/Debug/net6.0/NS.BLOGMGMT.Business.dll
+/home/abhishek/netsol/code/BLOGMGMT-1/NS.BLOGMGMT.Web/bin/Debug/net6.0/NS.BLOGMGMT.Data.dll
+/home/abhishek/netsol/code/BLOGMGMT-1/NS.BLOGMGMT.Web/bin/Debug/net6.0/NS.BLOGMGMT.Model.dll
+/home/abhishek/netsol/code/BLOGMGMT-1/NS.BLOGMGMT.Web/bin/Debug/net6.0/NS.BLOGMGMT.Repository.dll
+/home/abhishek/netsol/code/BLOGMGMT-1/NS.BLOGMGMT.Web/bin/Debug/net6.0/NS.BLOGMGMT.Data.pdb
+/home/abhishek/netsol/code/BLOGMGMT-1/NS.BLOGMGMT.Web/bin/Debug/net6.0/NS.BLOGMGMT.Business.pdb
+/home/abhishek/netsol/code/BLOGMGMT-1/NS.BLOGMGMT.Web/bin/Debug/net6.0/NS.BLOGMGMT.Repository.pdb
+/home/abhishek/netsol/code/BLOGMGMT-1/NS.BLOGMGMT.Web/bin/Debug/net6.0/NS.BLOGMGMT.Model.pdb
+/home/abhishek/netsol/code/BLOGMGMT-1/NS.BLOGMGMT.Web/obj/Debug/net6.0/NS.BLOGMGMT.Web.csproj.AssemblyReference.cache
+/home/abhishek/netsol/code/BLOGMGMT-1/NS.BLOGMGMT.Web/obj/Debug/net6.0/NS.BLOGMGMT.Web.GeneratedMSBuildEditorConfig.editorconfig
+/home/abhishek/netsol/code/BLOGMGMT-1/NS.BLOGMGMT.Web/obj/Debug/net6.0/NS.BLOGMGMT.Web.AssemblyInfoInputs.cache
+/home/abhishek/netsol/code/BLOGMGMT-1/NS.BLOGMGMT.Web/obj/Debug/net6.0/NS.BLOGMGMT.Web.AssemblyInfo.cs
+/home/abhishek/netsol/code/BLOGMGMT-1/NS.BLOGMGMT.Web/obj/Debug/net6.0/NS.BLOGMGMT.Web.csproj.CoreCompileInputs.cache
+/home/abhishek/netsol/code/BLOGMGMT-1/NS.BLOGMGMT.Web/obj/Debug/net6.0/NS.BLOGMGMT.Web.MvcApplicationPartsAssemblyInfo.cache
+/home/abhishek/netsol/code/BLOGMGMT-1/NS.BLOGMGMT.Web/obj/Debug/net6.0/NS.BLOGMGMT.Web.RazorAssemblyInfo.cache
+/home/abhishek/netsol/code/BLOGMGMT-1/NS.BLOGMGMT.Web/obj/Debug/net6.0/NS.BLOGMGMT.Web.RazorAssemblyInfo.cs
+/home/abhishek/netsol/code/BLOGMGMT-1/NS.BLOGMGMT.Web/obj/Debug/net6.0/staticwebassets.build.json
+/home/abhishek/netsol/code/BLOGMGMT-1/NS.BLOGMGMT.Web/obj/Debug/net6.0/staticwebassets.development.json
+/home/abhishek/netsol/code/BLOGMGMT-1/NS.BLOGMGMT.Web/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/home/abhishek/netsol/code/BLOGMGMT-1/NS.BLOGMGMT.Web/obj/Debug/net6.0/scopedcss/bundle/NS.BLOGMGMT.Web.styles.css
+/home/abhishek/netsol/code/BLOGMGMT-1/NS.BLOGMGMT.Web/obj/Debug/net6.0/scopedcss/projectbundle/NS.BLOGMGMT.Web.bundle.scp.css
+/home/abhishek/netsol/code/BLOGMGMT-1/NS.BLOGMGMT.Web/obj/Debug/net6.0/NS.BLOGMGMT.Web.csproj.CopyComplete
+/home/abhishek/netsol/code/BLOGMGMT-1/NS.BLOGMGMT.Web/obj/Debug/net6.0/NS.BLOGMGMT.Web.dll
+/home/abhishek/netsol/code/BLOGMGMT-1/NS.BLOGMGMT.Web/obj/Debug/net6.0/ref/NS.BLOGMGMT.Web.dll
+/home/abhishek/netsol/code/BLOGMGMT-1/NS.BLOGMGMT.Web/obj/Debug/net6.0/NS.BLOGMGMT.Web.pdb
+/home/abhishek/netsol/code/BLOGMGMT-1/NS.BLOGMGMT.Web/obj/Debug/net6.0/NS.BLOGMGMT.Web.genruntimeconfig.cache
+C:/Users/Ritik/Downloads/BLOGMGMT-1 (1)/BLOGMGMT-1/NS.BLOGMGMT.Web/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/Ritik/Downloads/BLOGMGMT-1 (1)/BLOGMGMT-1/NS.BLOGMGMT.Web/bin/Debug/net6.0/appsettings.json
+C:/Users/Ritik/Downloads/BLOGMGMT-1 (1)/BLOGMGMT-1/NS.BLOGMGMT.Web/bin/Debug/net6.0/NS.BLOGMGMT.Web.staticwebassets.runtime.json
+C:/Users/Ritik/Downloads/BLOGMGMT-1 (1)/BLOGMGMT-1/NS.BLOGMGMT.Web/bin/Debug/net6.0/NS.BLOGMGMT.Web.exe
+C:/Users/Ritik/Downloads/BLOGMGMT-1 (1)/BLOGMGMT-1/NS.BLOGMGMT.Web/bin/Debug/net6.0/NS.BLOGMGMT.Web.deps.json
+C:/Users/Ritik/Downloads/BLOGMGMT-1 (1)/BLOGMGMT-1/NS.BLOGMGMT.Web/bin/Debug/net6.0/NS.BLOGMGMT.Web.runtimeconfig.json
+C:/Users/Ritik/Downloads/BLOGMGMT-1 (1)/BLOGMGMT-1/NS.BLOGMGMT.Web/bin/Debug/net6.0/NS.BLOGMGMT.Web.dll
+C:/Users/Ritik/Downloads/BLOGMGMT-1 (1)/BLOGMGMT-1/NS.BLOGMGMT.Web/bin/Debug/net6.0/ref/NS.BLOGMGMT.Web.dll
+C:/Users/Ritik/Downloads/BLOGMGMT-1 (1)/BLOGMGMT-1/NS.BLOGMGMT.Web/bin/Debug/net6.0/NS.BLOGMGMT.Web.pdb
+C:/Users/Ritik/Downloads/BLOGMGMT-1 (1)/BLOGMGMT-1/NS.BLOGMGMT.Web/bin/Debug/net6.0/Humanizer.dll
+C:/Users/Ritik/Downloads/BLOGMGMT-1 (1)/BLOGMGMT-1/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.AspNet.Identity.Core.dll
+C:/Users/Ritik/Downloads/BLOGMGMT-1 (1)/BLOGMGMT-1/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/Ritik/Downloads/BLOGMGMT-1 (1)/BLOGMGMT-1/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/Ritik/Downloads/BLOGMGMT-1 (1)/BLOGMGMT-1/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/Ritik/Downloads/BLOGMGMT-1 (1)/BLOGMGMT-1/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/Ritik/Downloads/BLOGMGMT-1 (1)/BLOGMGMT-1/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/Ritik/Downloads/BLOGMGMT-1 (1)/BLOGMGMT-1/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/Ritik/Downloads/BLOGMGMT-1 (1)/BLOGMGMT-1/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/Ritik/Downloads/BLOGMGMT-1 (1)/BLOGMGMT-1/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+C:/Users/Ritik/Downloads/BLOGMGMT-1 (1)/BLOGMGMT-1/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/Ritik/Downloads/BLOGMGMT-1 (1)/BLOGMGMT-1/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/Ritik/Downloads/BLOGMGMT-1 (1)/BLOGMGMT-1/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/Ritik/Downloads/BLOGMGMT-1 (1)/BLOGMGMT-1/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/Ritik/Downloads/BLOGMGMT-1 (1)/BLOGMGMT-1/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/Ritik/Downloads/BLOGMGMT-1 (1)/BLOGMGMT-1/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Ritik/Downloads/BLOGMGMT-1 (1)/BLOGMGMT-1/NS.BLOGMGMT.Web/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+C:/Users/Ritik/Downloads/BLOGMGMT-1 (1)/BLOGMGMT-1/NS.BLOGMGMT.Web/bin/Debug/net6.0/System.Drawing.Common.dll
+C:/Users/Ritik/Downloads/BLOGMGMT-1 (1)/BLOGMGMT-1/NS.BLOGMGMT.Web/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/Ritik/Downloads/BLOGMGMT-1 (1)/BLOGMGMT-1/NS.BLOGMGMT.Web/bin/Debug/net6.0/System.Runtime.Caching.dll
+C:/Users/Ritik/Downloads/BLOGMGMT-1 (1)/BLOGMGMT-1/NS.BLOGMGMT.Web/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Ritik/Downloads/BLOGMGMT-1 (1)/BLOGMGMT-1/NS.BLOGMGMT.Web/bin/Debug/net6.0/System.Security.Permissions.dll
+C:/Users/Ritik/Downloads/BLOGMGMT-1 (1)/BLOGMGMT-1/NS.BLOGMGMT.Web/bin/Debug/net6.0/System.Windows.Extensions.dll
+C:/Users/Ritik/Downloads/BLOGMGMT-1 (1)/BLOGMGMT-1/NS.BLOGMGMT.Web/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/Ritik/Downloads/BLOGMGMT-1 (1)/BLOGMGMT-1/NS.BLOGMGMT.Web/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/Ritik/Downloads/BLOGMGMT-1 (1)/BLOGMGMT-1/NS.BLOGMGMT.Web/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Ritik/Downloads/BLOGMGMT-1 (1)/BLOGMGMT-1/NS.BLOGMGMT.Web/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Ritik/Downloads/BLOGMGMT-1 (1)/BLOGMGMT-1/NS.BLOGMGMT.Web/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Ritik/Downloads/BLOGMGMT-1 (1)/BLOGMGMT-1/NS.BLOGMGMT.Web/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Ritik/Downloads/BLOGMGMT-1 (1)/BLOGMGMT-1/NS.BLOGMGMT.Web/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Ritik/Downloads/BLOGMGMT-1 (1)/BLOGMGMT-1/NS.BLOGMGMT.Web/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/Ritik/Downloads/BLOGMGMT-1 (1)/BLOGMGMT-1/NS.BLOGMGMT.Web/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/Ritik/Downloads/BLOGMGMT-1 (1)/BLOGMGMT-1/NS.BLOGMGMT.Web/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+C:/Users/Ritik/Downloads/BLOGMGMT-1 (1)/BLOGMGMT-1/NS.BLOGMGMT.Web/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Ritik/Downloads/BLOGMGMT-1 (1)/BLOGMGMT-1/NS.BLOGMGMT.Web/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+C:/Users/Ritik/Downloads/BLOGMGMT-1 (1)/BLOGMGMT-1/NS.BLOGMGMT.Web/bin/Debug/net6.0/NS.BLOGMGMT.Business.dll
+C:/Users/Ritik/Downloads/BLOGMGMT-1 (1)/BLOGMGMT-1/NS.BLOGMGMT.Web/bin/Debug/net6.0/NS.BLOGMGMT.Data.dll
+C:/Users/Ritik/Downloads/BLOGMGMT-1 (1)/BLOGMGMT-1/NS.BLOGMGMT.Web/bin/Debug/net6.0/NS.BLOGMGMT.Model.dll
+C:/Users/Ritik/Downloads/BLOGMGMT-1 (1)/BLOGMGMT-1/NS.BLOGMGMT.Web/bin/Debug/net6.0/NS.BLOGMGMT.Repository.dll
+C:/Users/Ritik/Downloads/BLOGMGMT-1 (1)/BLOGMGMT-1/NS.BLOGMGMT.Web/bin/Debug/net6.0/NS.BLOGMGMT.Data.pdb
+C:/Users/Ritik/Downloads/BLOGMGMT-1 (1)/BLOGMGMT-1/NS.BLOGMGMT.Web/bin/Debug/net6.0/NS.BLOGMGMT.Business.pdb
+C:/Users/Ritik/Downloads/BLOGMGMT-1 (1)/BLOGMGMT-1/NS.BLOGMGMT.Web/bin/Debug/net6.0/NS.BLOGMGMT.Repository.pdb
+C:/Users/Ritik/Downloads/BLOGMGMT-1 (1)/BLOGMGMT-1/NS.BLOGMGMT.Web/bin/Debug/net6.0/NS.BLOGMGMT.Model.pdb
+C:/Users/Ritik/Downloads/BLOGMGMT-1 (1)/BLOGMGMT-1/NS.BLOGMGMT.Web/obj/Debug/net6.0/NS.BLOGMGMT.Web.csproj.AssemblyReference.cache
+C:/Users/Ritik/Downloads/BLOGMGMT-1 (1)/BLOGMGMT-1/NS.BLOGMGMT.Web/obj/Debug/net6.0/NS.BLOGMGMT.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Ritik/Downloads/BLOGMGMT-1 (1)/BLOGMGMT-1/NS.BLOGMGMT.Web/obj/Debug/net6.0/NS.BLOGMGMT.Web.AssemblyInfoInputs.cache
+C:/Users/Ritik/Downloads/BLOGMGMT-1 (1)/BLOGMGMT-1/NS.BLOGMGMT.Web/obj/Debug/net6.0/NS.BLOGMGMT.Web.AssemblyInfo.cs
+C:/Users/Ritik/Downloads/BLOGMGMT-1 (1)/BLOGMGMT-1/NS.BLOGMGMT.Web/obj/Debug/net6.0/NS.BLOGMGMT.Web.csproj.CoreCompileInputs.cache
+C:/Users/Ritik/Downloads/BLOGMGMT-1 (1)/BLOGMGMT-1/NS.BLOGMGMT.Web/obj/Debug/net6.0/NS.BLOGMGMT.Web.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Ritik/Downloads/BLOGMGMT-1 (1)/BLOGMGMT-1/NS.BLOGMGMT.Web/obj/Debug/net6.0/NS.BLOGMGMT.Web.RazorAssemblyInfo.cache
+C:/Users/Ritik/Downloads/BLOGMGMT-1 (1)/BLOGMGMT-1/NS.BLOGMGMT.Web/obj/Debug/net6.0/NS.BLOGMGMT.Web.RazorAssemblyInfo.cs
+C:/Users/Ritik/Downloads/BLOGMGMT-1 (1)/BLOGMGMT-1/NS.BLOGMGMT.Web/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/Ritik/Downloads/BLOGMGMT-1 (1)/BLOGMGMT-1/NS.BLOGMGMT.Web/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/Ritik/Downloads/BLOGMGMT-1 (1)/BLOGMGMT-1/NS.BLOGMGMT.Web/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/Ritik/Downloads/BLOGMGMT-1 (1)/BLOGMGMT-1/NS.BLOGMGMT.Web/obj/Debug/net6.0/scopedcss/bundle/NS.BLOGMGMT.Web.styles.css
+C:/Users/Ritik/Downloads/BLOGMGMT-1 (1)/BLOGMGMT-1/NS.BLOGMGMT.Web/obj/Debug/net6.0/scopedcss/projectbundle/NS.BLOGMGMT.Web.bundle.scp.css
+C:/Users/Ritik/Downloads/BLOGMGMT-1 (1)/BLOGMGMT-1/NS.BLOGMGMT.Web/obj/Debug/net6.0/NS.BLOGMGMT.Web.csproj.CopyComplete
+C:/Users/Ritik/Downloads/BLOGMGMT-1 (1)/BLOGMGMT-1/NS.BLOGMGMT.Web/obj/Debug/net6.0/NS.BLOGMGMT.Web.dll
+C:/Users/Ritik/Downloads/BLOGMGMT-1 (1)/BLOGMGMT-1/NS.BLOGMGMT.Web/obj/Debug/net6.0/ref/NS.BLOGMGMT.Web.dll
+C:/Users/Ritik/Downloads/BLOGMGMT-1 (1)/BLOGMGMT-1/NS.BLOGMGMT.Web/obj/Debug/net6.0/NS.BLOGMGMT.Web.pdb
+C:/Users/Ritik/Downloads/BLOGMGMT-1 (1)/BLOGMGMT-1/NS.BLOGMGMT.Web/obj/Debug/net6.0/NS.BLOGMGMT.Web.genruntimeconfig.cache
+/home/abhishek/netsol/code/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/appsettings.Development.json
+/home/abhishek/netsol/code/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/appsettings.json
+/home/abhishek/netsol/code/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/NS.BLOGMGMT.Web.staticwebassets.runtime.json
+/home/abhishek/netsol/code/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/NS.BLOGMGMT.Web
+/home/abhishek/netsol/code/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/NS.BLOGMGMT.Web.deps.json
+/home/abhishek/netsol/code/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/NS.BLOGMGMT.Web.runtimeconfig.json
+/home/abhishek/netsol/code/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/NS.BLOGMGMT.Web.dll
+/home/abhishek/netsol/code/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/ref/NS.BLOGMGMT.Web.dll
+/home/abhishek/netsol/code/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/NS.BLOGMGMT.Web.pdb
+/home/abhishek/netsol/code/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/Humanizer.dll
+/home/abhishek/netsol/code/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.AspNet.Identity.Core.dll
+/home/abhishek/netsol/code/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/home/abhishek/netsol/code/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/home/abhishek/netsol/code/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/abhishek/netsol/code/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/abhishek/netsol/code/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/abhishek/netsol/code/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/abhishek/netsol/code/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/home/abhishek/netsol/code/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/home/abhishek/netsol/code/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/abhishek/netsol/code/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/home/abhishek/netsol/code/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/home/abhishek/netsol/code/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/abhishek/netsol/code/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/home/abhishek/netsol/code/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/home/abhishek/netsol/code/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/home/abhishek/netsol/code/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/System.Drawing.Common.dll
+/home/abhishek/netsol/code/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/home/abhishek/netsol/code/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/System.Runtime.Caching.dll
+/home/abhishek/netsol/code/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/home/abhishek/netsol/code/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/System.Security.Permissions.dll
+/home/abhishek/netsol/code/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/System.Windows.Extensions.dll
+/home/abhishek/netsol/code/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/abhishek/netsol/code/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/abhishek/netsol/code/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/home/abhishek/netsol/code/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/abhishek/netsol/code/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/abhishek/netsol/code/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/home/abhishek/netsol/code/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/home/abhishek/netsol/code/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/home/abhishek/netsol/code/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/home/abhishek/netsol/code/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/home/abhishek/netsol/code/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/home/abhishek/netsol/code/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/home/abhishek/netsol/code/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/NS.BLOGMGMT.Business.dll
+/home/abhishek/netsol/code/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/NS.BLOGMGMT.Data.dll
+/home/abhishek/netsol/code/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/NS.BLOGMGMT.Model.dll
+/home/abhishek/netsol/code/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/NS.BLOGMGMT.Repository.dll
+/home/abhishek/netsol/code/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/NS.BLOGMGMT.Data.pdb
+/home/abhishek/netsol/code/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/NS.BLOGMGMT.Business.pdb
+/home/abhishek/netsol/code/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/NS.BLOGMGMT.Repository.pdb
+/home/abhishek/netsol/code/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/NS.BLOGMGMT.Model.pdb
+/home/abhishek/netsol/code/BLOGMGMT-2/NS.BLOGMGMT.Web/obj/Debug/net6.0/NS.BLOGMGMT.Web.csproj.AssemblyReference.cache
+/home/abhishek/netsol/code/BLOGMGMT-2/NS.BLOGMGMT.Web/obj/Debug/net6.0/NS.BLOGMGMT.Web.GeneratedMSBuildEditorConfig.editorconfig
+/home/abhishek/netsol/code/BLOGMGMT-2/NS.BLOGMGMT.Web/obj/Debug/net6.0/NS.BLOGMGMT.Web.AssemblyInfoInputs.cache
+/home/abhishek/netsol/code/BLOGMGMT-2/NS.BLOGMGMT.Web/obj/Debug/net6.0/NS.BLOGMGMT.Web.AssemblyInfo.cs
+/home/abhishek/netsol/code/BLOGMGMT-2/NS.BLOGMGMT.Web/obj/Debug/net6.0/NS.BLOGMGMT.Web.csproj.CoreCompileInputs.cache
+/home/abhishek/netsol/code/BLOGMGMT-2/NS.BLOGMGMT.Web/obj/Debug/net6.0/NS.BLOGMGMT.Web.MvcApplicationPartsAssemblyInfo.cache
+/home/abhishek/netsol/code/BLOGMGMT-2/NS.BLOGMGMT.Web/obj/Debug/net6.0/NS.BLOGMGMT.Web.RazorAssemblyInfo.cache
+/home/abhishek/netsol/code/BLOGMGMT-2/NS.BLOGMGMT.Web/obj/Debug/net6.0/NS.BLOGMGMT.Web.RazorAssemblyInfo.cs
+/home/abhishek/netsol/code/BLOGMGMT-2/NS.BLOGMGMT.Web/obj/Debug/net6.0/staticwebassets.build.json
+/home/abhishek/netsol/code/BLOGMGMT-2/NS.BLOGMGMT.Web/obj/Debug/net6.0/staticwebassets.development.json
+/home/abhishek/netsol/code/BLOGMGMT-2/NS.BLOGMGMT.Web/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/home/abhishek/netsol/code/BLOGMGMT-2/NS.BLOGMGMT.Web/obj/Debug/net6.0/scopedcss/bundle/NS.BLOGMGMT.Web.styles.css
+/home/abhishek/netsol/code/BLOGMGMT-2/NS.BLOGMGMT.Web/obj/Debug/net6.0/scopedcss/projectbundle/NS.BLOGMGMT.Web.bundle.scp.css
+/home/abhishek/netsol/code/BLOGMGMT-2/NS.BLOGMGMT.Web/obj/Debug/net6.0/NS.BLOGMGMT.Web.csproj.CopyComplete
+/home/abhishek/netsol/code/BLOGMGMT-2/NS.BLOGMGMT.Web/obj/Debug/net6.0/NS.BLOGMGMT.Web.dll
+/home/abhishek/netsol/code/BLOGMGMT-2/NS.BLOGMGMT.Web/obj/Debug/net6.0/ref/NS.BLOGMGMT.Web.dll
+/home/abhishek/netsol/code/BLOGMGMT-2/NS.BLOGMGMT.Web/obj/Debug/net6.0/NS.BLOGMGMT.Web.pdb
+/home/abhishek/netsol/code/BLOGMGMT-2/NS.BLOGMGMT.Web/obj/Debug/net6.0/NS.BLOGMGMT.Web.genruntimeconfig.cache
+/home/abhishek/netsol/code/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.AspNetCore.Server.Kestrel.Https.dll
+/home/abhishek/netsol/code/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+/home/abhishek/netsol/code/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/Newtonsoft.Json.dll
+C:/Users/Ritik/Downloads/BLOGMGMT-2/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/Ritik/Downloads/BLOGMGMT-2/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/appsettings.json
+C:/Users/Ritik/Downloads/BLOGMGMT-2/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/NS.BLOGMGMT.Web.staticwebassets.runtime.json
+C:/Users/Ritik/Downloads/BLOGMGMT-2/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/NS.BLOGMGMT.Web.exe
+C:/Users/Ritik/Downloads/BLOGMGMT-2/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/NS.BLOGMGMT.Web.deps.json
+C:/Users/Ritik/Downloads/BLOGMGMT-2/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/NS.BLOGMGMT.Web.runtimeconfig.json
+C:/Users/Ritik/Downloads/BLOGMGMT-2/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/NS.BLOGMGMT.Web.dll
+C:/Users/Ritik/Downloads/BLOGMGMT-2/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/ref/NS.BLOGMGMT.Web.dll
+C:/Users/Ritik/Downloads/BLOGMGMT-2/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/NS.BLOGMGMT.Web.pdb
+C:/Users/Ritik/Downloads/BLOGMGMT-2/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/Humanizer.dll
+C:/Users/Ritik/Downloads/BLOGMGMT-2/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.AspNet.Identity.Core.dll
+C:/Users/Ritik/Downloads/BLOGMGMT-2/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.AspNetCore.Server.Kestrel.Https.dll
+C:/Users/Ritik/Downloads/BLOGMGMT-2/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+C:/Users/Ritik/Downloads/BLOGMGMT-2/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/Ritik/Downloads/BLOGMGMT-2/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/Ritik/Downloads/BLOGMGMT-2/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/Ritik/Downloads/BLOGMGMT-2/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/Ritik/Downloads/BLOGMGMT-2/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/Ritik/Downloads/BLOGMGMT-2/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/Ritik/Downloads/BLOGMGMT-2/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/Ritik/Downloads/BLOGMGMT-2/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+C:/Users/Ritik/Downloads/BLOGMGMT-2/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/Ritik/Downloads/BLOGMGMT-2/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/Ritik/Downloads/BLOGMGMT-2/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/Ritik/Downloads/BLOGMGMT-2/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/Ritik/Downloads/BLOGMGMT-2/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/Ritik/Downloads/BLOGMGMT-2/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Ritik/Downloads/BLOGMGMT-2/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/Newtonsoft.Json.dll
+C:/Users/Ritik/Downloads/BLOGMGMT-2/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+C:/Users/Ritik/Downloads/BLOGMGMT-2/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/System.Drawing.Common.dll
+C:/Users/Ritik/Downloads/BLOGMGMT-2/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/Ritik/Downloads/BLOGMGMT-2/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/System.Runtime.Caching.dll
+C:/Users/Ritik/Downloads/BLOGMGMT-2/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Ritik/Downloads/BLOGMGMT-2/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/System.Security.Permissions.dll
+C:/Users/Ritik/Downloads/BLOGMGMT-2/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/System.Windows.Extensions.dll
+C:/Users/Ritik/Downloads/BLOGMGMT-2/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/Ritik/Downloads/BLOGMGMT-2/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/Ritik/Downloads/BLOGMGMT-2/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Ritik/Downloads/BLOGMGMT-2/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Ritik/Downloads/BLOGMGMT-2/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Ritik/Downloads/BLOGMGMT-2/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Ritik/Downloads/BLOGMGMT-2/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Ritik/Downloads/BLOGMGMT-2/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/Ritik/Downloads/BLOGMGMT-2/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/Ritik/Downloads/BLOGMGMT-2/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+C:/Users/Ritik/Downloads/BLOGMGMT-2/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Ritik/Downloads/BLOGMGMT-2/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+C:/Users/Ritik/Downloads/BLOGMGMT-2/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/NS.BLOGMGMT.Business.dll
+C:/Users/Ritik/Downloads/BLOGMGMT-2/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/NS.BLOGMGMT.Data.dll
+C:/Users/Ritik/Downloads/BLOGMGMT-2/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/NS.BLOGMGMT.Model.dll
+C:/Users/Ritik/Downloads/BLOGMGMT-2/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/NS.BLOGMGMT.Repository.dll
+C:/Users/Ritik/Downloads/BLOGMGMT-2/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/NS.BLOGMGMT.Data.pdb
+C:/Users/Ritik/Downloads/BLOGMGMT-2/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/NS.BLOGMGMT.Business.pdb
+C:/Users/Ritik/Downloads/BLOGMGMT-2/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/NS.BLOGMGMT.Repository.pdb
+C:/Users/Ritik/Downloads/BLOGMGMT-2/BLOGMGMT-2/NS.BLOGMGMT.Web/bin/Debug/net6.0/NS.BLOGMGMT.Model.pdb
+C:/Users/Ritik/Downloads/BLOGMGMT-2/BLOGMGMT-2/NS.BLOGMGMT.Web/obj/Debug/net6.0/NS.BLOGMGMT.Web.csproj.AssemblyReference.cache
+C:/Users/Ritik/Downloads/BLOGMGMT-2/BLOGMGMT-2/NS.BLOGMGMT.Web/obj/Debug/net6.0/NS.BLOGMGMT.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Ritik/Downloads/BLOGMGMT-2/BLOGMGMT-2/NS.BLOGMGMT.Web/obj/Debug/net6.0/NS.BLOGMGMT.Web.AssemblyInfoInputs.cache
+C:/Users/Ritik/Downloads/BLOGMGMT-2/BLOGMGMT-2/NS.BLOGMGMT.Web/obj/Debug/net6.0/NS.BLOGMGMT.Web.AssemblyInfo.cs
+C:/Users/Ritik/Downloads/BLOGMGMT-2/BLOGMGMT-2/NS.BLOGMGMT.Web/obj/Debug/net6.0/NS.BLOGMGMT.Web.csproj.CoreCompileInputs.cache
+C:/Users/Ritik/Downloads/BLOGMGMT-2/BLOGMGMT-2/NS.BLOGMGMT.Web/obj/Debug/net6.0/NS.BLOGMGMT.Web.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Ritik/Downloads/BLOGMGMT-2/BLOGMGMT-2/NS.BLOGMGMT.Web/obj/Debug/net6.0/NS.BLOGMGMT.Web.RazorAssemblyInfo.cache
+C:/Users/Ritik/Downloads/BLOGMGMT-2/BLOGMGMT-2/NS.BLOGMGMT.Web/obj/Debug/net6.0/NS.BLOGMGMT.Web.RazorAssemblyInfo.cs
+C:/Users/Ritik/Downloads/BLOGMGMT-2/BLOGMGMT-2/NS.BLOGMGMT.Web/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/Ritik/Downloads/BLOGMGMT-2/BLOGMGMT-2/NS.BLOGMGMT.Web/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/Ritik/Downloads/BLOGMGMT-2/BLOGMGMT-2/NS.BLOGMGMT.Web/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/Ritik/Downloads/BLOGMGMT-2/BLOGMGMT-2/NS.BLOGMGMT.Web/obj/Debug/net6.0/scopedcss/bundle/NS.BLOGMGMT.Web.styles.css
+C:/Users/Ritik/Downloads/BLOGMGMT-2/BLOGMGMT-2/NS.BLOGMGMT.Web/obj/Debug/net6.0/scopedcss/projectbundle/NS.BLOGMGMT.Web.bundle.scp.css
+C:/Users/Ritik/Downloads/BLOGMGMT-2/BLOGMGMT-2/NS.BLOGMGMT.Web/obj/Debug/net6.0/NS.BLOGMGMT.Web.csproj.CopyComplete
+C:/Users/Ritik/Downloads/BLOGMGMT-2/BLOGMGMT-2/NS.BLOGMGMT.Web/obj/Debug/net6.0/NS.BLOGMGMT.Web.dll
+C:/Users/Ritik/Downloads/BLOGMGMT-2/BLOGMGMT-2/NS.BLOGMGMT.Web/obj/Debug/net6.0/ref/NS.BLOGMGMT.Web.dll
+C:/Users/Ritik/Downloads/BLOGMGMT-2/BLOGMGMT-2/NS.BLOGMGMT.Web/obj/Debug/net6.0/NS.BLOGMGMT.Web.pdb
+C:/Users/Ritik/Downloads/BLOGMGMT-2/BLOGMGMT-2/NS.BLOGMGMT.Web/obj/Debug/net6.0/NS.BLOGMGMT.Web.genruntimeconfig.cache
+/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/bin/Debug/net6.0/appsettings.Development.json
+/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/bin/Debug/net6.0/appsettings.json
+/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/bin/Debug/net6.0/NS.BLOGMGMT.Web.staticwebassets.runtime.json
+/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/bin/Debug/net6.0/NS.BLOGMGMT.Web
+/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/bin/Debug/net6.0/NS.BLOGMGMT.Web.deps.json
+/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/bin/Debug/net6.0/NS.BLOGMGMT.Web.runtimeconfig.json
+/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/bin/Debug/net6.0/NS.BLOGMGMT.Web.dll
+/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/bin/Debug/net6.0/ref/NS.BLOGMGMT.Web.dll
+/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/bin/Debug/net6.0/NS.BLOGMGMT.Web.pdb
+/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/bin/Debug/net6.0/Humanizer.dll
+/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.AspNet.Identity.Core.dll
+/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.AspNetCore.Server.Kestrel.Https.dll
+/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/bin/Debug/net6.0/Newtonsoft.Json.dll
+/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/bin/Debug/net6.0/System.Drawing.Common.dll
+/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/bin/Debug/net6.0/System.Runtime.Caching.dll
+/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/bin/Debug/net6.0/System.Security.Permissions.dll
+/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/bin/Debug/net6.0/System.Windows.Extensions.dll
+/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/bin/Debug/net6.0/NS.BLOGMGMT.Business.dll
+/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/bin/Debug/net6.0/NS.BLOGMGMT.Data.dll
+/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/bin/Debug/net6.0/NS.BLOGMGMT.Model.dll
+/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/bin/Debug/net6.0/NS.BLOGMGMT.Repository.dll
+/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/bin/Debug/net6.0/NS.BLOGMGMT.Data.pdb
+/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/bin/Debug/net6.0/NS.BLOGMGMT.Business.pdb
+/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/bin/Debug/net6.0/NS.BLOGMGMT.Repository.pdb
+/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/bin/Debug/net6.0/NS.BLOGMGMT.Model.pdb
+/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/obj/Debug/net6.0/NS.BLOGMGMT.Web.csproj.AssemblyReference.cache
+/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/obj/Debug/net6.0/NS.BLOGMGMT.Web.GeneratedMSBuildEditorConfig.editorconfig
+/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/obj/Debug/net6.0/NS.BLOGMGMT.Web.AssemblyInfoInputs.cache
+/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/obj/Debug/net6.0/NS.BLOGMGMT.Web.AssemblyInfo.cs
+/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/obj/Debug/net6.0/NS.BLOGMGMT.Web.csproj.CoreCompileInputs.cache
+/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/obj/Debug/net6.0/NS.BLOGMGMT.Web.MvcApplicationPartsAssemblyInfo.cache
+/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/obj/Debug/net6.0/NS.BLOGMGMT.Web.RazorAssemblyInfo.cache
+/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/obj/Debug/net6.0/NS.BLOGMGMT.Web.RazorAssemblyInfo.cs
+/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/obj/Debug/net6.0/staticwebassets.build.json
+/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/obj/Debug/net6.0/staticwebassets.development.json
+/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/obj/Debug/net6.0/scopedcss/bundle/NS.BLOGMGMT.Web.styles.css
+/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/obj/Debug/net6.0/scopedcss/projectbundle/NS.BLOGMGMT.Web.bundle.scp.css
+/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/obj/Debug/net6.0/NS.BLOGMGMT.Web.csproj.CopyComplete
+/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/obj/Debug/net6.0/NS.BLOGMGMT.Web.dll
+/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/obj/Debug/net6.0/ref/NS.BLOGMGMT.Web.dll
+/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/obj/Debug/net6.0/NS.BLOGMGMT.Web.pdb
+/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Web/obj/Debug/net6.0/NS.BLOGMGMT.Web.genruntimeconfig.cache

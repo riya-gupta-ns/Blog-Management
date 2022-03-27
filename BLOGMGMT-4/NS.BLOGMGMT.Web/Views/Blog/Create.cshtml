@@ -1,0 +1,57 @@
+@model NS.BLOGMGMT.Model.BlogModel
+@section Scripts {
+   @{ await Html.RenderPartialAsync("_ValidationScriptsPartial"); }
+}
+
+<header class="masthead" >
+  <div class="container position-relative px-4 px-lg-5">
+      <div class="row gx-4 gx-lg-5 justify-content-center">
+          <div class="col-md-10 col-lg-8 col-xl-7">
+              <div class="site-heading">
+                  <h1>Clean Blog</h1>
+                  <span class="subheading text-white fw-bold">Add Your Blog !!</a>
+              </div>
+          </div>
+      </div>
+  </div>
+</header>
+
+<div class="container">
+    @using (Html.BeginForm("Create", "Blog", FormMethod.Post, new { enctype = "multipart/form-data", @class="form w-50 m-auto"}))
+    {
+      <div class="mb-3">
+        @Html.LabelFor(model => model.BlogTitle, htmlAttributes: new { @class = "form-label fw-bold" })
+        @Html.EditorFor(model => model.BlogTitle, new { htmlAttributes = new { @class = "form-control" } })
+        @Html.ValidationMessageFor(model => model.BlogTitle, "", new { @class = "text-danger" })
+      </div>
+      
+      <div class="mb-3">
+        @Html.LabelFor(model => model.BlogTypeId, htmlAttributes: new { @class = "form-label fw-bold" })
+        @Html.DropDownListFor(model=>model.BlogTypeId,new SelectList(ViewBag.BlogTypes, "TypeId", "TypeName"))
+        @Html.ValidationMessageFor(model => model.BlogTypeId, "", new { @class = "text-danger" })
+      </div>
+
+      <div class="mb-3">
+        @Html.LabelFor(model => model.BlogContent, htmlAttributes: new { @class = "form-label fw-bold" })  
+        @Html.TextAreaFor(model => model.BlogContent, new { htmlAttributes = new { @class = "form-control"} })
+        @Html.ValidationMessageFor(model => model.BlogContent, "", new { @class = "text-danger" })  
+      </div>  
+
+      <div class="mb-3">
+        <input type="submit" value="Add" class="btn btn-primary" />
+        <a asp-controller="User" asp-action="Blogs" class="btn btn-secondary">Back to Profile</a>
+      </div>
+    }
+</div>
+
+<script src="https://cdn.tiny.cloud/1/rhcrgzflksyl03wg76vcczurvy7qimf7q4259aeqp5l0qn51/tinymce/5/tinymce.min.js" referrerpolicy="origin"></script>
+<script>
+   tinymce.init({
+     selector: 'textarea',
+     plugins: 'a11ychecker advcode casechange export formatpainter linkchecker autolink lists checklist media mediaembed pageembed permanentpen powerpaste table advtable tinycomments tinymcespellchecker',
+     toolbar: 'a11ycheck addcomment showcomments casechange checklist code export formatpainter pageembed permanentpen table',
+     toolbar_mode: 'floating',
+     tinycomments_mode: 'embedded',
+     tinycomments_author: 'Author name',
+   });
+</script>

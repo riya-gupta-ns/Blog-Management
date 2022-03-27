@@ -1,0 +1,34 @@
+@model NS.BLOGMGMT.Data.Entities.Blog
+@{
+    ViewData["Title"] = "Clean Blog";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<header class="masthead" style="background-image: url('/images/images.jpeg')">
+  <div class="container position-relative px-4 px-lg-5">
+    <div class="row gx-4 gx-lg-5 justify-content-center">
+      <div class="col-md-10 col-lg-8 col-xl-7">
+        <div class="post-heading">
+          <h1>@Model.BlogTitle</h1>
+          <span class="meta">
+            Posted On @Model.LastModifiedOn 
+          </span>
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
+
+<article class="mb-4">
+  <div class="container px-4 px-lg-5">
+    <div class="row gx-4 gx-lg-5 justify-content-center">
+        <div class="col-md-10 col-lg-8 col-xl-7">
+        <p>@Model.BlogContent</p>
+        </div>
+    </div>
+  </div>
+</article>
+
+<div class="Comments container px-45 px-lg-5" id="partialContainer">
+  @Html.Partial("_ShowComments", Model.Comments)
+</div>

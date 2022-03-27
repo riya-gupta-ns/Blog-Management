@@ -1,0 +1,34 @@
+@model List<NS.BLOGMGMT.Data.Entities.Blog>
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+</head>
+<body>
+
+  <br>
+  <div>
+    @foreach( var item in Model)
+    {
+      <div class="row col-sm-4">
+        <div class="card">
+          <div class="card-horizontal">
+            <div class="card-body">
+              <h4 class="card-title">Blogs</h4>
+              <div>
+               <h5>Blog</h5>
+               <p>@item.BlogTitle</p>
+               <p>@item.BlogContent</p>
+              </div> 
+            </div>
+          </div>
+        </div>
+      </div>
+    }
+  </div>
+</body>
+</html>

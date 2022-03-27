@@ -1,0 +1,225 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Repository/NS.BLOGMGMT.Repository.csproj": {}
+  },
+  "projects": {
+    "/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Data/NS.BLOGMGMT.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Data/NS.BLOGMGMT.Data.csproj",
+        "projectName": "NS.BLOGMGMT.Data",
+        "projectPath": "/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Data/NS.BLOGMGMT.Data.csproj",
+        "packagesPath": "/home/abhishek/.nuget/packages/",
+        "outputPath": "/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Data/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/abhishek/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.2, 6.0.2]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Model/NS.BLOGMGMT.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Model/NS.BLOGMGMT.Model.csproj",
+        "projectName": "NS.BLOGMGMT.Model",
+        "projectPath": "/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Model/NS.BLOGMGMT.Model.csproj",
+        "packagesPath": "/home/abhishek/.nuget/packages/",
+        "outputPath": "/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Model/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/abhishek/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Data/NS.BLOGMGMT.Data.csproj": {
+                "projectPath": "/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Data/NS.BLOGMGMT.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.2, 6.0.2]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Repository/NS.BLOGMGMT.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Repository/NS.BLOGMGMT.Repository.csproj",
+        "projectName": "NS.BLOGMGMT.Repository",
+        "projectPath": "/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Repository/NS.BLOGMGMT.Repository.csproj",
+        "packagesPath": "/home/abhishek/.nuget/packages/",
+        "outputPath": "/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Repository/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/abhishek/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Data/NS.BLOGMGMT.Data.csproj": {
+                "projectPath": "/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Data/NS.BLOGMGMT.Data.csproj"
+              },
+              "/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Model/NS.BLOGMGMT.Model.csproj": {
+                "projectPath": "/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Model/NS.BLOGMGMT.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.Cookies": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.2, 6.0.2]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

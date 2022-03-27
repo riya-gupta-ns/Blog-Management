@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - NS.BLOGMGMT.Web</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+</head>
+<body>
+
+    <div id="header_container">
+      <div id="header"> 
+        <a href="http://all-free-download.com/free-website-templates/"><img src="images/logo.gif" alt="Total Management" title="Total Management" border="0" /></a>
+        <ul>
+          <li><a href="http://all-free-download.com/free-website-templates/">Home</a> </li>
+          <li><a href="http://all-free-download.com/free-website-templates/">About us</a></li>
+          <li><a href="http://all-free-download.com/free-website-templates/">Whats new</a></li>
+          <li><a href="http://all-free-download.com/free-website-templates/">Forum</a></li>
+          <li><a href="http://all-free-download.com/free-website-templates/">Solution</a></li>
+          <li class="contact"><a href="http://all-free-download.com/free-website-templates/">Contact</a></li>
+        </ul>
+        <h1>ibulum, ipsum id cursus</h1>
+      </div>
+    </div>
+
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2022 - NS.BLOGMGMT.Web - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

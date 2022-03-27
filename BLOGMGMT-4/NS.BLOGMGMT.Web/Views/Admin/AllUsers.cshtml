@@ -1,0 +1,37 @@
+@model List<NS.BLOGMGMT.Data.Entities.User>
+
+@{    
+  ViewData["Title"] = "All Users";    
+  Layout = "~/Views/Shared/_Admin.cshtml";    
+}    
+
+<h3> All Users ( @Model.Count() )</h3>
+<table class="table">
+  <thead>
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">UserFullName</th>
+      <th scope="col">Email</th>
+      <th scope="col">Registred On </th>
+    </tr>
+  </thead>
+  <tbody>
+    @{int index = 1; }
+    @foreach( var item in Model)
+    {
+      <tr>
+        <th scope="row">@index</th>
+        <td><a asp-controller="User" asp-action="Profile" asp-route-id="@item.UserId">@item.UserFullName</a></td>
+        <td>@item.Email</td>
+        <td>@item.CreatedOn</td>
+        @if ( @item.IsDeleted == true)
+        {
+          <td><a asp-action="ActivateUser" asp-route-id="@item.UserId" class="btn btn-outline-info">Activate</a></td>
+        } else {
+          <td><a asp-action="DeActivateUser" asp-route-id="@item.UserId" class="btn btn-outline-info">De-Activate</a></td>
+          }
+      </tr>
+    index++;
+    }
+  </tbody>
+</table>

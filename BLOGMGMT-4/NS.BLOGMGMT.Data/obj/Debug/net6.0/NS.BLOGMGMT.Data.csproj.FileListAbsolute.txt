@@ -1,0 +1,98 @@
+/home/abhishek/netsol/code/BLOGMGMT/NS.BLOGMGMT.Data/bin/Debug/net6.0/NS.BLOGMGMT.Data.deps.json
+/home/abhishek/netsol/code/BLOGMGMT/NS.BLOGMGMT.Data/bin/Debug/net6.0/NS.BLOGMGMT.Data.runtimeconfig.json
+/home/abhishek/netsol/code/BLOGMGMT/NS.BLOGMGMT.Data/bin/Debug/net6.0/NS.BLOGMGMT.Data.dll
+/home/abhishek/netsol/code/BLOGMGMT/NS.BLOGMGMT.Data/bin/Debug/net6.0/ref/NS.BLOGMGMT.Data.dll
+/home/abhishek/netsol/code/BLOGMGMT/NS.BLOGMGMT.Data/bin/Debug/net6.0/NS.BLOGMGMT.Data.pdb
+/home/abhishek/netsol/code/BLOGMGMT/NS.BLOGMGMT.Data/obj/Debug/net6.0/NS.BLOGMGMT.Data.csproj.AssemblyReference.cache
+/home/abhishek/netsol/code/BLOGMGMT/NS.BLOGMGMT.Data/obj/Debug/net6.0/NS.BLOGMGMT.Data.GeneratedMSBuildEditorConfig.editorconfig
+/home/abhishek/netsol/code/BLOGMGMT/NS.BLOGMGMT.Data/obj/Debug/net6.0/NS.BLOGMGMT.Data.AssemblyInfoInputs.cache
+/home/abhishek/netsol/code/BLOGMGMT/NS.BLOGMGMT.Data/obj/Debug/net6.0/NS.BLOGMGMT.Data.AssemblyInfo.cs
+/home/abhishek/netsol/code/BLOGMGMT/NS.BLOGMGMT.Data/obj/Debug/net6.0/NS.BLOGMGMT.Data.csproj.CoreCompileInputs.cache
+/home/abhishek/netsol/code/BLOGMGMT/NS.BLOGMGMT.Data/obj/Debug/net6.0/NS.BLOGMGMT.Data.dll
+/home/abhishek/netsol/code/BLOGMGMT/NS.BLOGMGMT.Data/obj/Debug/net6.0/ref/NS.BLOGMGMT.Data.dll
+/home/abhishek/netsol/code/BLOGMGMT/NS.BLOGMGMT.Data/obj/Debug/net6.0/NS.BLOGMGMT.Data.pdb
+/home/abhishek/netsol/code/BLOGMGMT/NS.BLOGMGMT.Data/obj/Debug/net6.0/NS.BLOGMGMT.Data.genruntimeconfig.cache
+D:/Company project 2/ProjectFile13.3/BLOGMGMT (1)/BLOGMGMT/NS.BLOGMGMT.Data/bin/Debug/net6.0/NS.BLOGMGMT.Data.deps.json
+D:/Company project 2/ProjectFile13.3/BLOGMGMT (1)/BLOGMGMT/NS.BLOGMGMT.Data/bin/Debug/net6.0/NS.BLOGMGMT.Data.runtimeconfig.json
+D:/Company project 2/ProjectFile13.3/BLOGMGMT (1)/BLOGMGMT/NS.BLOGMGMT.Data/bin/Debug/net6.0/NS.BLOGMGMT.Data.dll
+D:/Company project 2/ProjectFile13.3/BLOGMGMT (1)/BLOGMGMT/NS.BLOGMGMT.Data/bin/Debug/net6.0/ref/NS.BLOGMGMT.Data.dll
+D:/Company project 2/ProjectFile13.3/BLOGMGMT (1)/BLOGMGMT/NS.BLOGMGMT.Data/bin/Debug/net6.0/NS.BLOGMGMT.Data.pdb
+D:/Company project 2/ProjectFile13.3/BLOGMGMT (1)/BLOGMGMT/NS.BLOGMGMT.Data/obj/Debug/net6.0/NS.BLOGMGMT.Data.csproj.AssemblyReference.cache
+D:/Company project 2/ProjectFile13.3/BLOGMGMT (1)/BLOGMGMT/NS.BLOGMGMT.Data/obj/Debug/net6.0/NS.BLOGMGMT.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:/Company project 2/ProjectFile13.3/BLOGMGMT (1)/BLOGMGMT/NS.BLOGMGMT.Data/obj/Debug/net6.0/NS.BLOGMGMT.Data.AssemblyInfoInputs.cache
+D:/Company project 2/ProjectFile13.3/BLOGMGMT (1)/BLOGMGMT/NS.BLOGMGMT.Data/obj/Debug/net6.0/NS.BLOGMGMT.Data.AssemblyInfo.cs
+D:/Company project 2/ProjectFile13.3/BLOGMGMT (1)/BLOGMGMT/NS.BLOGMGMT.Data/obj/Debug/net6.0/NS.BLOGMGMT.Data.csproj.CoreCompileInputs.cache
+D:/Company project 2/ProjectFile13.3/BLOGMGMT (1)/BLOGMGMT/NS.BLOGMGMT.Data/obj/Debug/net6.0/NS.BLOGMGMT.Data.dll
+D:/Company project 2/ProjectFile13.3/BLOGMGMT (1)/BLOGMGMT/NS.BLOGMGMT.Data/obj/Debug/net6.0/ref/NS.BLOGMGMT.Data.dll
+D:/Company project 2/ProjectFile13.3/BLOGMGMT (1)/BLOGMGMT/NS.BLOGMGMT.Data/obj/Debug/net6.0/NS.BLOGMGMT.Data.pdb
+D:/Company project 2/ProjectFile13.3/BLOGMGMT (1)/BLOGMGMT/NS.BLOGMGMT.Data/obj/Debug/net6.0/NS.BLOGMGMT.Data.genruntimeconfig.cache
+/home/abhishek/netsol/code/BLOGMGMT-1/NS.BLOGMGMT.Data/bin/Debug/net6.0/NS.BLOGMGMT.Data.deps.json
+/home/abhishek/netsol/code/BLOGMGMT-1/NS.BLOGMGMT.Data/bin/Debug/net6.0/NS.BLOGMGMT.Data.runtimeconfig.json
+/home/abhishek/netsol/code/BLOGMGMT-1/NS.BLOGMGMT.Data/bin/Debug/net6.0/NS.BLOGMGMT.Data.dll
+/home/abhishek/netsol/code/BLOGMGMT-1/NS.BLOGMGMT.Data/bin/Debug/net6.0/ref/NS.BLOGMGMT.Data.dll
+/home/abhishek/netsol/code/BLOGMGMT-1/NS.BLOGMGMT.Data/bin/Debug/net6.0/NS.BLOGMGMT.Data.pdb
+/home/abhishek/netsol/code/BLOGMGMT-1/NS.BLOGMGMT.Data/obj/Debug/net6.0/NS.BLOGMGMT.Data.csproj.AssemblyReference.cache
+/home/abhishek/netsol/code/BLOGMGMT-1/NS.BLOGMGMT.Data/obj/Debug/net6.0/NS.BLOGMGMT.Data.GeneratedMSBuildEditorConfig.editorconfig
+/home/abhishek/netsol/code/BLOGMGMT-1/NS.BLOGMGMT.Data/obj/Debug/net6.0/NS.BLOGMGMT.Data.AssemblyInfoInputs.cache
+/home/abhishek/netsol/code/BLOGMGMT-1/NS.BLOGMGMT.Data/obj/Debug/net6.0/NS.BLOGMGMT.Data.AssemblyInfo.cs
+/home/abhishek/netsol/code/BLOGMGMT-1/NS.BLOGMGMT.Data/obj/Debug/net6.0/NS.BLOGMGMT.Data.csproj.CoreCompileInputs.cache
+/home/abhishek/netsol/code/BLOGMGMT-1/NS.BLOGMGMT.Data/obj/Debug/net6.0/NS.BLOGMGMT.Data.dll
+/home/abhishek/netsol/code/BLOGMGMT-1/NS.BLOGMGMT.Data/obj/Debug/net6.0/ref/NS.BLOGMGMT.Data.dll
+/home/abhishek/netsol/code/BLOGMGMT-1/NS.BLOGMGMT.Data/obj/Debug/net6.0/NS.BLOGMGMT.Data.pdb
+/home/abhishek/netsol/code/BLOGMGMT-1/NS.BLOGMGMT.Data/obj/Debug/net6.0/NS.BLOGMGMT.Data.genruntimeconfig.cache
+C:/Users/Ritik/Downloads/BLOGMGMT-1 (1)/BLOGMGMT-1/NS.BLOGMGMT.Data/bin/Debug/net6.0/NS.BLOGMGMT.Data.deps.json
+C:/Users/Ritik/Downloads/BLOGMGMT-1 (1)/BLOGMGMT-1/NS.BLOGMGMT.Data/bin/Debug/net6.0/NS.BLOGMGMT.Data.runtimeconfig.json
+C:/Users/Ritik/Downloads/BLOGMGMT-1 (1)/BLOGMGMT-1/NS.BLOGMGMT.Data/bin/Debug/net6.0/NS.BLOGMGMT.Data.dll
+C:/Users/Ritik/Downloads/BLOGMGMT-1 (1)/BLOGMGMT-1/NS.BLOGMGMT.Data/bin/Debug/net6.0/ref/NS.BLOGMGMT.Data.dll
+C:/Users/Ritik/Downloads/BLOGMGMT-1 (1)/BLOGMGMT-1/NS.BLOGMGMT.Data/bin/Debug/net6.0/NS.BLOGMGMT.Data.pdb
+C:/Users/Ritik/Downloads/BLOGMGMT-1 (1)/BLOGMGMT-1/NS.BLOGMGMT.Data/obj/Debug/net6.0/NS.BLOGMGMT.Data.csproj.AssemblyReference.cache
+C:/Users/Ritik/Downloads/BLOGMGMT-1 (1)/BLOGMGMT-1/NS.BLOGMGMT.Data/obj/Debug/net6.0/NS.BLOGMGMT.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Ritik/Downloads/BLOGMGMT-1 (1)/BLOGMGMT-1/NS.BLOGMGMT.Data/obj/Debug/net6.0/NS.BLOGMGMT.Data.AssemblyInfoInputs.cache
+C:/Users/Ritik/Downloads/BLOGMGMT-1 (1)/BLOGMGMT-1/NS.BLOGMGMT.Data/obj/Debug/net6.0/NS.BLOGMGMT.Data.AssemblyInfo.cs
+C:/Users/Ritik/Downloads/BLOGMGMT-1 (1)/BLOGMGMT-1/NS.BLOGMGMT.Data/obj/Debug/net6.0/NS.BLOGMGMT.Data.csproj.CoreCompileInputs.cache
+C:/Users/Ritik/Downloads/BLOGMGMT-1 (1)/BLOGMGMT-1/NS.BLOGMGMT.Data/obj/Debug/net6.0/NS.BLOGMGMT.Data.dll
+C:/Users/Ritik/Downloads/BLOGMGMT-1 (1)/BLOGMGMT-1/NS.BLOGMGMT.Data/obj/Debug/net6.0/ref/NS.BLOGMGMT.Data.dll
+C:/Users/Ritik/Downloads/BLOGMGMT-1 (1)/BLOGMGMT-1/NS.BLOGMGMT.Data/obj/Debug/net6.0/NS.BLOGMGMT.Data.pdb
+C:/Users/Ritik/Downloads/BLOGMGMT-1 (1)/BLOGMGMT-1/NS.BLOGMGMT.Data/obj/Debug/net6.0/NS.BLOGMGMT.Data.genruntimeconfig.cache
+/home/abhishek/netsol/code/BLOGMGMT-2/NS.BLOGMGMT.Data/bin/Debug/net6.0/NS.BLOGMGMT.Data.deps.json
+/home/abhishek/netsol/code/BLOGMGMT-2/NS.BLOGMGMT.Data/bin/Debug/net6.0/NS.BLOGMGMT.Data.runtimeconfig.json
+/home/abhishek/netsol/code/BLOGMGMT-2/NS.BLOGMGMT.Data/bin/Debug/net6.0/NS.BLOGMGMT.Data.dll
+/home/abhishek/netsol/code/BLOGMGMT-2/NS.BLOGMGMT.Data/bin/Debug/net6.0/ref/NS.BLOGMGMT.Data.dll
+/home/abhishek/netsol/code/BLOGMGMT-2/NS.BLOGMGMT.Data/bin/Debug/net6.0/NS.BLOGMGMT.Data.pdb
+/home/abhishek/netsol/code/BLOGMGMT-2/NS.BLOGMGMT.Data/obj/Debug/net6.0/NS.BLOGMGMT.Data.csproj.AssemblyReference.cache
+/home/abhishek/netsol/code/BLOGMGMT-2/NS.BLOGMGMT.Data/obj/Debug/net6.0/NS.BLOGMGMT.Data.GeneratedMSBuildEditorConfig.editorconfig
+/home/abhishek/netsol/code/BLOGMGMT-2/NS.BLOGMGMT.Data/obj/Debug/net6.0/NS.BLOGMGMT.Data.AssemblyInfoInputs.cache
+/home/abhishek/netsol/code/BLOGMGMT-2/NS.BLOGMGMT.Data/obj/Debug/net6.0/NS.BLOGMGMT.Data.AssemblyInfo.cs
+/home/abhishek/netsol/code/BLOGMGMT-2/NS.BLOGMGMT.Data/obj/Debug/net6.0/NS.BLOGMGMT.Data.csproj.CoreCompileInputs.cache
+/home/abhishek/netsol/code/BLOGMGMT-2/NS.BLOGMGMT.Data/obj/Debug/net6.0/NS.BLOGMGMT.Data.dll
+/home/abhishek/netsol/code/BLOGMGMT-2/NS.BLOGMGMT.Data/obj/Debug/net6.0/ref/NS.BLOGMGMT.Data.dll
+/home/abhishek/netsol/code/BLOGMGMT-2/NS.BLOGMGMT.Data/obj/Debug/net6.0/NS.BLOGMGMT.Data.pdb
+/home/abhishek/netsol/code/BLOGMGMT-2/NS.BLOGMGMT.Data/obj/Debug/net6.0/NS.BLOGMGMT.Data.genruntimeconfig.cache
+C:/Users/Ritik/Downloads/BLOGMGMT-2/BLOGMGMT-2/NS.BLOGMGMT.Data/bin/Debug/net6.0/NS.BLOGMGMT.Data.deps.json
+C:/Users/Ritik/Downloads/BLOGMGMT-2/BLOGMGMT-2/NS.BLOGMGMT.Data/bin/Debug/net6.0/NS.BLOGMGMT.Data.runtimeconfig.json
+C:/Users/Ritik/Downloads/BLOGMGMT-2/BLOGMGMT-2/NS.BLOGMGMT.Data/bin/Debug/net6.0/NS.BLOGMGMT.Data.dll
+C:/Users/Ritik/Downloads/BLOGMGMT-2/BLOGMGMT-2/NS.BLOGMGMT.Data/bin/Debug/net6.0/ref/NS.BLOGMGMT.Data.dll
+C:/Users/Ritik/Downloads/BLOGMGMT-2/BLOGMGMT-2/NS.BLOGMGMT.Data/bin/Debug/net6.0/NS.BLOGMGMT.Data.pdb
+C:/Users/Ritik/Downloads/BLOGMGMT-2/BLOGMGMT-2/NS.BLOGMGMT.Data/obj/Debug/net6.0/NS.BLOGMGMT.Data.csproj.AssemblyReference.cache
+C:/Users/Ritik/Downloads/BLOGMGMT-2/BLOGMGMT-2/NS.BLOGMGMT.Data/obj/Debug/net6.0/NS.BLOGMGMT.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Ritik/Downloads/BLOGMGMT-2/BLOGMGMT-2/NS.BLOGMGMT.Data/obj/Debug/net6.0/NS.BLOGMGMT.Data.AssemblyInfoInputs.cache
+C:/Users/Ritik/Downloads/BLOGMGMT-2/BLOGMGMT-2/NS.BLOGMGMT.Data/obj/Debug/net6.0/NS.BLOGMGMT.Data.AssemblyInfo.cs
+C:/Users/Ritik/Downloads/BLOGMGMT-2/BLOGMGMT-2/NS.BLOGMGMT.Data/obj/Debug/net6.0/NS.BLOGMGMT.Data.csproj.CoreCompileInputs.cache
+C:/Users/Ritik/Downloads/BLOGMGMT-2/BLOGMGMT-2/NS.BLOGMGMT.Data/obj/Debug/net6.0/NS.BLOGMGMT.Data.dll
+C:/Users/Ritik/Downloads/BLOGMGMT-2/BLOGMGMT-2/NS.BLOGMGMT.Data/obj/Debug/net6.0/ref/NS.BLOGMGMT.Data.dll
+C:/Users/Ritik/Downloads/BLOGMGMT-2/BLOGMGMT-2/NS.BLOGMGMT.Data/obj/Debug/net6.0/NS.BLOGMGMT.Data.pdb
+C:/Users/Ritik/Downloads/BLOGMGMT-2/BLOGMGMT-2/NS.BLOGMGMT.Data/obj/Debug/net6.0/NS.BLOGMGMT.Data.genruntimeconfig.cache
+/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Data/bin/Debug/net6.0/NS.BLOGMGMT.Data.deps.json
+/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Data/bin/Debug/net6.0/NS.BLOGMGMT.Data.runtimeconfig.json
+/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Data/bin/Debug/net6.0/NS.BLOGMGMT.Data.dll
+/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Data/bin/Debug/net6.0/ref/NS.BLOGMGMT.Data.dll
+/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Data/bin/Debug/net6.0/NS.BLOGMGMT.Data.pdb
+/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Data/obj/Debug/net6.0/NS.BLOGMGMT.Data.csproj.AssemblyReference.cache
+/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Data/obj/Debug/net6.0/NS.BLOGMGMT.Data.GeneratedMSBuildEditorConfig.editorconfig
+/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Data/obj/Debug/net6.0/NS.BLOGMGMT.Data.AssemblyInfoInputs.cache
+/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Data/obj/Debug/net6.0/NS.BLOGMGMT.Data.AssemblyInfo.cs
+/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Data/obj/Debug/net6.0/NS.BLOGMGMT.Data.csproj.CoreCompileInputs.cache
+/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Data/obj/Debug/net6.0/NS.BLOGMGMT.Data.dll
+/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Data/obj/Debug/net6.0/ref/NS.BLOGMGMT.Data.dll
+/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Data/obj/Debug/net6.0/NS.BLOGMGMT.Data.pdb
+/home/abhishek/netsol/code/BLOGMGMT-4/NS.BLOGMGMT.Data/obj/Debug/net6.0/NS.BLOGMGMT.Data.genruntimeconfig.cache

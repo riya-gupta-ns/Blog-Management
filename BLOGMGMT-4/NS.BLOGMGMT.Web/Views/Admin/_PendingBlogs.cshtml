@@ -1,0 +1,31 @@
+<h3>Pending Blogs ( 1 )</h3>
+<table class="table">
+  <thead>
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">Title</th>
+      <th scope="col">Author</th>
+      <th scope="col">Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    @{int index = 1; }
+    @foreach ( var item in Model)
+    {
+      @if( @item.IsPublish == 0)
+      {
+        <tr>
+          <th scope="row">@index</th>
+          <td>@item.BlogTitle</td>
+          <td>@item.UserFullName</td>
+          <td>Pending</td>
+          <td>
+            <a asp-action="RejectBlog" asp-route-id="@item.BlogId" class="btn btn-primary">Reject</a>
+            <a asp-action="PublishBlog" asp-route-id="@item.BlogId" class="btn btn-secondary">Publish</a>
+          </td>
+        </tr>
+        index++;
+      }
+    }
+ </tbody>
+</table>

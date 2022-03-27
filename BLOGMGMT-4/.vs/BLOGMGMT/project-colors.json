@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cea4796d-b4c8-47a0-a583-005817ead94c": {
+      "ProjectGuid": "cea4796d-b4c8-47a0-a583-005817ead94c",
+      "DisplayName": "NS.BLOGMGMT.Web",
+      "ColorIndex": 0
+    },
+    "0d38a9b6-0ede-4f22-98b7-a17572903e35": {
+      "ProjectGuid": "0d38a9b6-0ede-4f22-98b7-a17572903e35",
+      "DisplayName": "NS.BLOGMGMT.Repository",
+      "ColorIndex": 1
+    },
+    "3d74d8c8-6397-4a6b-8162-1da4737be53d": {
+      "ProjectGuid": "3d74d8c8-6397-4a6b-8162-1da4737be53d",
+      "DisplayName": "NS.BLOGMGMT.Model",
+      "ColorIndex": 2
+    },
+    "dacde595-4afd-4a6d-be61-70495ba4e97b": {
+      "ProjectGuid": "dacde595-4afd-4a6d-be61-70495ba4e97b",
+      "DisplayName": "NS.BLOGMGMT.Data",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}

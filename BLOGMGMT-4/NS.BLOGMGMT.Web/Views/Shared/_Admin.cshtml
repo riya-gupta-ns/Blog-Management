@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Clean Blog</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/style.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/NS.BLOGMGMT.Web.styles.css" asp-append-version="true" />
+    <script src="https://use.fontawesome.com/releases/v5.15.4/js/all.js" crossorigin="anonymous"></script>
+    <!-- Google fonts-->
+    <link href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet" type="text/css" />
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css" />
+</head>
+<body>
+
+<div style="float:right;width:75%; height:50px; margin-right:10px; margin-top:25px">
+  @RenderBody()
+</div>
+
+<div style="float:left;width:20%; height:50px; margin-left:10px; margin-top:25px" >
+  <div class="list-group">
+      <a class="list-group-item list-group-item-action" asp-action="Index" >Pending Blogs</a>
+      <a class="list-group-item list-group-item-action active" asp-action="AllBlogs"> All Blogs </a>
+      <a class="list-group-item list-group-item-action" asp-action="AllUsers" >View Users</a>
+      <a  class="list-group-item list-group-item-action active" asp-action="ViewBlogType" >Blog Type</a>
+      <a class="list-group-item list-group-item-action" asp-action="StaticContent" >Contact Us Content</a>
+   </div>
+</div>
+
+
+  <script src="~/lib/jquery/dist/jquery.min.js"></script>
+  <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+  <script src="~/js/site.js" asp-append-version="true"></script>
+  <script src="~/js/scripts.js" asp-append-version="true"></script>
+  @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

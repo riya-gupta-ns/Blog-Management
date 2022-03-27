@@ -1,0 +1,21 @@
+@model List<NS.BLOGMGMT.Data.Entities.Blog>
+
+<div>
+  <table class="table">
+    <thead>
+      <tr>
+        <th scope="col">#</th>
+        <th scope="col">Title</th>
+      </tr>
+    </thead>
+    <tbody>
+      @foreach (var item in Model)
+      {
+        <tr>
+          <th scope="row">1</th>
+          <td>@item.BlogTitle</td>
+        </tr>
+      }
+    </tbody>
+  </table>
+</div>

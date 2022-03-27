@@ -1,0 +1,31 @@
+@model NS.BLOGMGMT.Model.Login
+
+<form method="post" class="row row-cols-lg-auto g-3 align-items-center mb-3 justify-content-center" asp-controller="Account" asp-action="Login">
+    <span class="text-danger">    
+      @TempData["message"]    
+    </span>
+  <div class="col-12">
+    <label class="visually-hidden" asp-for="UserName">Username</label>
+    <div class="input-group">
+      <input type="text" class="form-control" asp-for="UserName" placeholder="Username">
+      <span asp-validation-for="UserName" class="text-danger"></span>    
+    </div>
+  </div>
+
+  <div class="col-12">
+    <label class="visually-hidden" asp-for="Password">Password</label>
+    <div class="input-group">
+      <input type="password" class="form-control" asp-for="Password" placeholder="Password">
+      <span asp-validation-for="Password" class="text-danger"></span>    
+    </div>
+  </div>
+
+  <div class="col-12">
+    <input type="submit" value="Sign In" class="btn btn-primary" onclick="validcap()"/>  
+  </div>
+
+  <div class="col-12">
+    <a asp-controller="Account" asp-action="SignUp" class="btn btn-primary">SignUp</a>
+  </div>
+
+</form>

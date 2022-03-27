@@ -1,0 +1,16 @@
+@model List<NS.BLOGMGMT.Data.Entities.Comment>
+
+<hr>
+<h3>Comments</h3>
+<div>
+  @foreach( var item in Model)
+  {
+    <div class="border-end-0 bg-secondary bg-opacity-10 p-2 mb-2">
+      <h5 class="post-meta">
+          @item.Name says
+      </h5>
+      <h6 class="f6">@item.LastModifiedOn</h6>
+      <p> @item.CommentContent </p>
+    </div>
+  }
+</div>

@@ -1,0 +1,22 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif; 
+  margin-bottom: 60px;
+ font-size: 16px;
+ line-height: 1.6;
+ color: #333;
+}

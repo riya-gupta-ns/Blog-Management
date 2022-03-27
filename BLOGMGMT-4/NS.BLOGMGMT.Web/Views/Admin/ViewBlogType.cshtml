@@ -1,0 +1,85 @@
+@model List<NS.BLOGMGMT.Data.Entities.BlogType>
+@{
+    Layout = null;
+  }
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>@ViewData["Title"] - Clean Blog</title>
+  <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+  <link rel="stylesheet" href="~/css/style.css" asp-append-version="true" />
+  <!-- Google fonts-->
+  <link href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet" type="text/css" />
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css" />
+  <script src="https://use.fontawesome.com/releases/v5.15.4/js/all.js" crossorigin="anonymous"></script>
+</head>
+<body>
+  <div style="float:left;width:20%; height:50px; margin-left:10px; margin-top:25px" >
+    <div class="list-group">
+      <a class="list-group-item list-group-item-action" asp-action="Index" >Pending Blogs</a>
+      <a class="list-group-item list-group-item-action active" asp-action="AllBlogs"> All Blogs </a>
+      <a class="list-group-item list-group-item-action" asp-action="AllUsers" >View Users</a>
+      <a  class="list-group-item list-group-item-action active" asp-action="ViewBlogType" >Blog Type</a>
+      <a class="list-group-item list-group-item-action" asp-action="StaticContent" >Contact Us Content</a>
+    </div>
+
+    <div class="col-sm-6 w-100 mt-3" >
+      <div class="card">
+        <div class="card-body">
+          <h5 class="card-title">Add New Blog Type</h5>
+          @using (Html.BeginForm("AddBlogType", "Admin", FormMethod.Post, new { enctype = "multipart/form-data", @class="form w-50 "})) {
+          <div class="form-floating">
+            <input class="form-control" id="blogType" for="BlogType" name="TypeName" type="text" placeholder="Enter New Blog type..." data-sb-validations="required" size="30" maxlength="245"/>
+            <label for="BlogType">Type</label>
+            <div class="invalid-feedback" data-sb-feedback="name:required">Type is required.</div>
+          </div>
+          <input type="submit" value="Submit" class="btn btn-primary text-uppercase mt-3" id="submitButton"/>
+          }
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div style="float:right;width:75%; height:50px; margin-right:10px; margin-top:25px">
+    <h3>Blog Tehnology</h3>
+    <table class="table">
+      <thead>
+        <tr>
+          <th scope="col">#</th>
+          <th scope="col">Title</th>
+          <th scope="col">Delete</th>
+        </tr>
+      </thead>
+      <tbody>
+        @{int index = 1; }
+        @foreach ( var item in Model)
+        {
+            <tr>
+              <th scope="row">@index</th>
+              <td>@item.TypeName</td>
+              <td>
+               @if ( @item.IsDeleted == true)
+                {
+                  <a asp-action="ActivateBlogType" asp-route-id="@item.TypeId" class="btn btn-outline-info">Activate</a>
+                } else {
+                  <a asp-action="DeleteBlogType" asp-route-id="@item.TypeId" class="btn btn-outline-info">De-Activate</a>
+                }
+              </td>
+            </tr>
+            index++;
+        }
+     </tbody>
+    </table>
+    <a asp-action="Index"  class="btn btn-outline-info">Back to Dashboard</a>
+    <br />
+  </div>
+  <script src="~/lib/jquery/dist/jquery.min.js"></script>
+  <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+  <script src="~/js/site.js" asp-append-version="true"></script>
+  <script src="~/js/scripts.js" asp-append-version="true"></script>
+</body>
+</html>
